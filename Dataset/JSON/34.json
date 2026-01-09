@@ -1,0 +1,702 @@
+[
+    {
+        "Name": "善光寺門前町 (長野)",
+        "Description": "善光寺の門前に広がる歴史的な町並み。宿坊や土産物店が立ち並ぶ。",
+        "Prefecture": "長野県",
+        "Latitude": 36.661667,
+        "Longitude": 138.187500
+    },
+    {
+        "Name": "成田山表参道 (成田)",
+        "Description": "成田山新勝寺への参道。鰻屋や土産物店が軒を連ねる。",
+        "Prefecture": "千葉県",
+        "Latitude": 35.783889,
+        "Longitude": 140.318333
+    },
+    {
+        "Name": "おはらい町・おかげ横丁 (伊勢)",
+        "Description": "伊勢神宮内宮の門前町。切妻造の建物が並び、赤福本店などがある。",
+        "Prefecture": "三重県",
+        "Latitude": 34.463333,
+        "Longitude": 136.723056
+    },
+    {
+        "Name": "浅草仲見世 (浅草)",
+        "Description": "浅草寺の雷門から宝蔵門まで続く日本で最も古い商店街の一つ。",
+        "Prefecture": "東京都",
+        "Latitude": 35.711111,
+        "Longitude": 139.796389
+    },
+    {
+        "Name": "産寧坂・二年坂 (京都)",
+        "Description": "清水寺の参道。重要伝統的建造物群保存地区。",
+        "Prefecture": "京都府",
+        "Latitude": 34.996111,
+        "Longitude": 135.780833
+    },
+    {
+        "Name": "金刀比羅宮参道 (琴平)",
+        "Description": "金刀比羅宮への長い石段沿いに広がる門前町。",
+        "Prefecture": "香川県",
+        "Latitude": 34.187222,
+        "Longitude": 133.818056
+    },
+    {
+        "Name": "出雲大社神門通り (出雲)",
+        "Description": "出雲大社の正門から続く表参道。",
+        "Prefecture": "島根県",
+        "Latitude": 35.398611,
+        "Longitude": 132.685556
+    },
+    {
+        "Name": "太宰府天満宮参道 (太宰府)",
+        "Description": "太宰府天満宮へ続く参道。梅ヶ枝餅の店などが並ぶ。",
+        "Prefecture": "福岡県",
+        "Latitude": 33.519722,
+        "Longitude": 130.533611
+    },
+    {
+        "Name": "宮島表参道 (廿日市)",
+        "Description": "厳島神社の門前町。土産物店や食事処が並ぶ商店街。",
+        "Prefecture": "広島県",
+        "Latitude": 34.298056,
+        "Longitude": 132.321667
+    },
+    {
+        "Name": "鎌倉小町通り (鎌倉)",
+        "Description": "鶴岡八幡宮の近道として賑わう商店街。",
+        "Prefecture": "神奈川県",
+        "Latitude": 35.321667,
+        "Longitude": 139.552778
+    },
+    {
+        "Name": "高野山 (高野)",
+        "Description": "金剛峯寺を中心とする宗教都市。多くの宿坊がある。",
+        "Prefecture": "和歌山県",
+        "Latitude": 34.212500,
+        "Longitude": 135.586111
+    },
+    {
+        "Name": "比叡山坂本 (大津)",
+        "Description": "比叡山延暦寺の門前町。穴太衆積みの石垣と里坊が残る。",
+        "Prefecture": "滋賀県",
+        "Latitude": 35.071667,
+        "Longitude": 135.871111
+    },
+    {
+        "Name": "日光西町 (日光)",
+        "Description": "日光東照宮などの門前町。羊羹や湯波の店が多い。",
+        "Prefecture": "栃木県",
+        "Latitude": 36.753333,
+        "Longitude": 139.598056
+    },
+    {
+        "Name": "柴又帝釈天参道 (葛飾)",
+        "Description": "柴又帝釈天への参道。映画「男はつらいよ」の舞台。",
+        "Prefecture": "東京都",
+        "Latitude": 35.757778,
+        "Longitude": 139.876389
+    },
+    {
+        "Name": "川越 (川越)",
+        "Description": "川越氷川神社や喜多院の門前町・城下町。「小江戸」と呼ばれる蔵造りの町並み。",
+        "Prefecture": "埼玉県",
+        "Latitude": 35.923889,
+        "Longitude": 139.483611
+    },
+    {
+        "Name": "豊川稲荷門前町 (豊川)",
+        "Description": "豊川稲荷の門前町。豊川いなり寿司で有名。",
+        "Prefecture": "愛知県",
+        "Latitude": 34.825833,
+        "Longitude": 137.394444
+    },
+    {
+        "Name": "川崎大師表参道 (川崎)",
+        "Description": "川崎大師平間寺への参道。久寿餅や飴屋が並ぶ。",
+        "Prefecture": "神奈川県",
+        "Latitude": 35.534167,
+        "Longitude": 139.728889
+    },
+    {
+        "Name": "江の島弁財天仲見世通り (藤沢)",
+        "Description": "江島神社への参道。海産物や土産物店が並ぶ。",
+        "Prefecture": "神奈川県",
+        "Latitude": 35.301389,
+        "Longitude": 139.480833
+    },
+    {
+        "Name": "大山まんじゅう通り (伊勢原)",
+        "Description": "大山阿夫利神社の門前町。こま参道など。",
+        "Prefecture": "神奈川県",
+        "Latitude": 35.419444,
+        "Longitude": 139.261111
+    },
+    {
+        "Name": "身延 (身延)",
+        "Description": "身延山久遠寺の門前町。しだれ桜と宿坊で知られる。",
+        "Prefecture": "山梨県",
+        "Latitude": 35.394444,
+        "Longitude": 138.428333
+    },
+    {
+        "Name": "永平寺門前町 (永平寺)",
+        "Description": "曹洞宗大本山永平寺の門前町。",
+        "Prefecture": "福井県",
+        "Latitude": 36.056944,
+        "Longitude": 136.354722
+    },
+    {
+        "Name": "伏見稲荷参道 (京都)",
+        "Description": "伏見稲荷大社の参道。スズメの焼き鳥などが名物。",
+        "Prefecture": "京都府",
+        "Latitude": 34.967222,
+        "Longitude": 135.772778
+    },
+    {
+        "Name": "奈良町 (奈良)",
+        "Description": "元興寺の旧境内を中心とした町並み。町家が残る。",
+        "Prefecture": "奈良県",
+        "Latitude": 34.680000,
+        "Longitude": 135.830000
+    },
+    {
+        "Name": "吉野山 (吉野)",
+        "Description": "金峯山寺の門前町。桜の名所としても有名。",
+        "Prefecture": "奈良県",
+        "Latitude": 34.358056,
+        "Longitude": 135.857222
+    },
+    {
+        "Name": "住吉 (大阪)",
+        "Description": "住吉大社の門前町。",
+        "Prefecture": "大阪府",
+        "Latitude": 34.612222,
+        "Longitude": 135.493611
+    },
+    {
+        "Name": "天王寺 (大阪)",
+        "Description": "四天王寺の門前町。",
+        "Prefecture": "大阪府",
+        "Latitude": 34.653889,
+        "Longitude": 135.516111
+    },
+    {
+        "Name": "巣鴨地蔵通り (豊島)",
+        "Description": "とげぬき地蔵尊（高岩寺）の門前町。「おばあちゃんの原宿」。",
+        "Prefecture": "東京都",
+        "Latitude": 35.736667,
+        "Longitude": 139.736944
+    },
+    {
+        "Name": "佐原 (香取)",
+        "Description": "香取神宮の門前町かつ水運の町。重要伝統的建造物群保存地区。",
+        "Prefecture": "千葉県",
+        "Latitude": 35.889444,
+        "Longitude": 140.499444
+    },
+    {
+        "Name": "鹿島 (鹿島)",
+        "Description": "鹿島神宮の鳥居前町。",
+        "Prefecture": "茨城県",
+        "Latitude": 35.968889,
+        "Longitude": 140.630833
+    },
+    {
+        "Name": "笠間 (笠間)",
+        "Description": "笠間稲荷神社の門前町。",
+        "Prefecture": "茨城県",
+        "Latitude": 36.386111,
+        "Longitude": 140.256111
+    },
+    {
+        "Name": "足利 (足利)",
+        "Description": "鑁阿寺の門前町。足利学校も隣接。",
+        "Prefecture": "栃木県",
+        "Latitude": 36.335278,
+        "Longitude": 139.448611
+    },
+    {
+        "Name": "佐野 (佐野)",
+        "Description": "佐野厄除け大師の門前町。",
+        "Prefecture": "栃木県",
+        "Latitude": 36.314722,
+        "Longitude": 139.578611
+    },
+    {
+        "Name": "秩父 (秩父)",
+        "Description": "秩父神社の門前町。秩父夜祭で有名。",
+        "Prefecture": "埼玉県",
+        "Latitude": 35.998333,
+        "Longitude": 139.085000
+    },
+    {
+        "Name": "妻沼 (熊谷)",
+        "Description": "妻沼聖天山の門前町。",
+        "Prefecture": "埼玉県",
+        "Latitude": 36.226944,
+        "Longitude": 139.375556
+    },
+    {
+        "Name": "高幡不動 (日野)",
+        "Description": "高幡不動尊金剛寺の門前町。",
+        "Prefecture": "東京都",
+        "Latitude": 35.661667,
+        "Longitude": 139.412222
+    },
+    {
+        "Name": "高尾山 (八王子)",
+        "Description": "高尾山薬王院の門前町。蕎麦処が多い。",
+        "Prefecture": "東京都",
+        "Latitude": 35.626111,
+        "Longitude": 139.278333
+    },
+    {
+        "Name": "池上 (大田)",
+        "Description": "池上本門寺の門前町。",
+        "Prefecture": "東京都",
+        "Latitude": 35.578889,
+        "Longitude": 139.704722
+    },
+    {
+        "Name": "深川 (江東)",
+        "Description": "富岡八幡宮・深川不動堂の門前町。",
+        "Prefecture": "東京都",
+        "Latitude": 35.671944,
+        "Longitude": 139.798333
+    },
+    {
+        "Name": "西新井 (足立)",
+        "Description": "西新井大師の門前町。",
+        "Prefecture": "東京都",
+        "Latitude": 35.783611,
+        "Longitude": 139.790556
+    },
+    {
+        "Name": "弥彦 (弥彦)",
+        "Description": "弥彦神社の門前町。温泉地でもある。",
+        "Prefecture": "新潟県",
+        "Latitude": 37.705833,
+        "Longitude": 138.823611
+    },
+    {
+        "Name": "戸隠 (長野)",
+        "Description": "戸隠神社の門前町・宿坊群。重要伝統的建造物群保存地区。",
+        "Prefecture": "長野県",
+        "Latitude": 36.756111,
+        "Longitude": 138.083889
+    },
+    {
+        "Name": "諏訪 (諏訪)",
+        "Description": "諏訪大社の門前町。",
+        "Prefecture": "長野県",
+        "Latitude": 36.007778,
+        "Longitude": 138.120278
+    },
+    {
+        "Name": "大須 (名古屋)",
+        "Description": "大須観音の門前町。商店街が広がる。",
+        "Prefecture": "愛知県",
+        "Latitude": 35.159722,
+        "Longitude": 136.900278
+    },
+    {
+        "Name": "津島 (津島)",
+        "Description": "津島神社の門前町。",
+        "Prefecture": "愛知県",
+        "Latitude": 35.178056,
+        "Longitude": 136.726389
+    },
+    {
+        "Name": "宇治 (宇治)",
+        "Description": "平等院などの門前町。宇治茶の店が並ぶ。",
+        "Prefecture": "京都府",
+        "Latitude": 34.889444,
+        "Longitude": 135.807778
+    },
+    {
+        "Name": "祇園 (京都)",
+        "Description": "八坂神社の門前町。花街としても発展。",
+        "Prefecture": "京都府",
+        "Latitude": 35.003611,
+        "Longitude": 135.777778
+    },
+    {
+        "Name": "嵯峨鳥居本 (京都)",
+        "Description": "愛宕神社の鳥居前町。重要伝統的建造物群保存地区。",
+        "Prefecture": "京都府",
+        "Latitude": 35.028056,
+        "Longitude": 135.666111
+    },
+    {
+        "Name": "鞍馬 (京都)",
+        "Description": "鞍馬寺の門前町。",
+        "Prefecture": "京都府",
+        "Latitude": 35.118056,
+        "Longitude": 135.772500
+    },
+    {
+        "Name": "法隆寺 (斑鳩)",
+        "Description": "法隆寺の門前町。",
+        "Prefecture": "奈良県",
+        "Latitude": 34.614167,
+        "Longitude": 135.735833
+    },
+    {
+        "Name": "長谷 (桜井)",
+        "Description": "長谷寺の門前町。",
+        "Prefecture": "奈良県",
+        "Latitude": 34.535833,
+        "Longitude": 135.906944
+    },
+    {
+        "Name": "熊野本宮 (田辺)",
+        "Description": "熊野本宮大社の門前町。",
+        "Prefecture": "和歌山県",
+        "Latitude": 33.840278,
+        "Longitude": 135.773889
+    },
+    {
+        "Name": "那智 (那智勝浦)",
+        "Description": "熊野那智大社の門前町。",
+        "Prefecture": "和歌山県",
+        "Latitude": 33.668611,
+        "Longitude": 135.891111
+    },
+    {
+        "Name": "善通寺 (善通寺)",
+        "Description": "善通寺の門前町。",
+        "Prefecture": "香川県",
+        "Latitude": 34.225556,
+        "Longitude": 133.774722
+    },
+    {
+        "Name": "石手寺 (松山)",
+        "Description": "石手寺の門前町。",
+        "Prefecture": "愛媛県",
+        "Latitude": 33.854722,
+        "Longitude": 132.802500
+    },
+    {
+        "Name": "宗像 (宗像)",
+        "Description": "宗像大社の門前町。",
+        "Prefecture": "福岡県",
+        "Latitude": 33.831111,
+        "Longitude": 130.514444
+    },
+    {
+        "Name": "宇佐 (宇佐)",
+        "Description": "宇佐神宮の門前町。",
+        "Prefecture": "大分県",
+        "Latitude": 33.526111,
+        "Longitude": 131.375278
+    },
+    {
+        "Name": "祐徳 (鹿島)",
+        "Description": "祐徳稲荷神社の門前町。",
+        "Prefecture": "佐賀県",
+        "Latitude": 33.073611,
+        "Longitude": 130.108611
+    },
+    {
+        "Name": "阿蘇 (阿蘇)",
+        "Description": "阿蘇神社の門前町。",
+        "Prefecture": "熊本県",
+        "Latitude": 32.947778,
+        "Longitude": 131.127500
+    },
+    {
+        "Name": "霧島 (霧島)",
+        "Description": "霧島神宮の門前町。",
+        "Prefecture": "鹿児島県",
+        "Latitude": 31.854444,
+        "Longitude": 130.871111
+    },
+    {
+        "Name": "平泉 (平泉)",
+        "Description": "中尊寺・毛越寺の門前町。",
+        "Prefecture": "岩手県",
+        "Latitude": 39.001667,
+        "Longitude": 141.103056
+    },
+    {
+        "Name": "山寺 (山形)",
+        "Description": "立石寺の門前町。",
+        "Prefecture": "山形県",
+        "Latitude": 38.312778,
+        "Longitude": 140.435833
+    },
+    {
+        "Name": "羽黒 (鶴岡)",
+        "Description": "出羽三山神社の門前町。",
+        "Prefecture": "山形県",
+        "Latitude": 38.706111,
+        "Longitude": 139.966944
+    },
+    {
+        "Name": "塩竈 (塩竈)",
+        "Description": "鹽竈神社の門前町。",
+        "Prefecture": "宮城県",
+        "Latitude": 38.320278,
+        "Longitude": 141.020556
+    },
+    {
+        "Name": "三島 (三島)",
+        "Description": "三嶋大社の門前町。",
+        "Prefecture": "静岡県",
+        "Latitude": 35.122778,
+        "Longitude": 138.918889
+    },
+    {
+        "Name": "富士宮 (富士宮)",
+        "Description": "富士山本宮浅間大社の門前町。",
+        "Prefecture": "静岡県",
+        "Latitude": 35.226389,
+        "Longitude": 138.610556
+    },
+    {
+        "Name": "熱田 (名古屋)",
+        "Description": "熱田神宮の門前町。",
+        "Prefecture": "愛知県",
+        "Latitude": 35.125833,
+        "Longitude": 136.908889
+    },
+    {
+        "Name": "多度 (桑名)",
+        "Description": "多度大社の門前町。",
+        "Prefecture": "三重県",
+        "Latitude": 35.137500,
+        "Longitude": 136.631944
+    },
+    {
+        "Name": "石山 (大津)",
+        "Description": "石山寺の門前町。",
+        "Prefecture": "滋賀県",
+        "Latitude": 34.960278,
+        "Longitude": 135.905278
+    },
+    {
+        "Name": "北野 (京都)",
+        "Description": "北野天満宮の門前町。上七軒。",
+        "Prefecture": "京都府",
+        "Latitude": 35.029444,
+        "Longitude": 135.735278
+    },
+    {
+        "Name": "大原 (京都)",
+        "Description": "三千院の門前町。",
+        "Prefecture": "京都府",
+        "Latitude": 35.118611,
+        "Longitude": 135.833611
+    },
+    {
+        "Name": "室生 (宇陀)",
+        "Description": "室生寺の門前町。",
+        "Prefecture": "奈良県",
+        "Latitude": 34.540833,
+        "Longitude": 136.040278
+    },
+    {
+        "Name": "粉河 (紀の川)",
+        "Description": "粉河寺の門前町。",
+        "Prefecture": "和歌山県",
+        "Latitude": 34.281111,
+        "Longitude": 135.405556
+    },
+    {
+        "Name": "西大寺 (岡山)",
+        "Description": "西大寺の門前町。",
+        "Prefecture": "岡山県",
+        "Latitude": 34.656389,
+        "Longitude": 134.032222
+    },
+    {
+        "Name": "防府 (防府)",
+        "Description": "防府天満宮の門前町。",
+        "Prefecture": "山口県",
+        "Latitude": 34.058889,
+        "Longitude": 131.571944
+    },
+    {
+        "Name": "大山 (鳥取)",
+        "Description": "大山寺の門前町。",
+        "Prefecture": "鳥取県",
+        "Latitude": 35.393056,
+        "Longitude": 133.530556
+    },
+    {
+        "Name": "英彦山 (添田)",
+        "Description": "英彦山神宮の門前町。",
+        "Prefecture": "福岡県",
+        "Latitude": 33.486111,
+        "Longitude": 130.906944
+    },
+    {
+        "Name": "鵜戸 (日南)",
+        "Description": "鵜戸神宮の門前町。",
+        "Prefecture": "宮崎県",
+        "Latitude": 31.649722,
+        "Longitude": 131.465556
+    },
+    {
+        "Name": "宮崎 (宮崎)",
+        "Description": "宮崎神宮の門前町。",
+        "Prefecture": "宮崎県",
+        "Latitude": 31.939722,
+        "Longitude": 131.423056
+    },
+    {
+        "Name": "弘前 (弘前)",
+        "Description": "禅林街（寺町）が広がる。",
+        "Prefecture": "青森県",
+        "Latitude": 40.592500,
+        "Longitude": 140.463889
+    },
+    {
+        "Name": "飯田 (飯田)",
+        "Description": "元善光寺の門前町。",
+        "Prefecture": "長野県",
+        "Latitude": 35.513333,
+        "Longitude": 137.842778
+    },
+    {
+        "Name": "小布施 (小布施)",
+        "Description": "岩松院などの門前町。葛飾北斎ゆかり。",
+        "Prefecture": "長野県",
+        "Latitude": 36.694722,
+        "Longitude": 138.315556
+    },
+    {
+        "Name": "塩尻 (塩尻)",
+        "Description": "奈良井宿だが、鎮神社の門前的な側面も。",
+        "Prefecture": "長野県",
+        "Latitude": 35.966667,
+        "Longitude": 137.812778
+    },
+    {
+        "Name": "知立 (知立)",
+        "Description": "知立神社の門前町。",
+        "Prefecture": "愛知県",
+        "Latitude": 35.006944,
+        "Longitude": 137.040278
+    },
+    {
+        "Name": "美濃 (美濃)",
+        "Description": "うだつの上がる町並みだが、八幡神社の門前町でもある。",
+        "Prefecture": "岐阜県",
+        "Latitude": 35.545278,
+        "Longitude": 136.913611
+    },
+    {
+        "Name": "谷汲 (揖斐川)",
+        "Description": "華厳寺の門前町。",
+        "Prefecture": "岐阜県",
+        "Latitude": 35.535833,
+        "Longitude": 136.602222
+    },
+    {
+        "Name": "関 (亀山)",
+        "Description": "関宿。地蔵院の門前町。",
+        "Prefecture": "三重県",
+        "Latitude": 34.853889,
+        "Longitude": 136.395278
+    },
+    {
+        "Name": "今井 (橿原)",
+        "Description": "称念寺の寺内町。",
+        "Prefecture": "奈良県",
+        "Latitude": 34.507500,
+        "Longitude": 135.782778
+    },
+    {
+        "Name": "富田林 (富田林)",
+        "Description": "興正寺別院の寺内町。重要伝統的建造物群保存地区。",
+        "Prefecture": "大阪府",
+        "Latitude": 34.498889,
+        "Longitude": 135.600000
+    },
+    {
+        "Name": "本願寺 (京都)",
+        "Description": "西本願寺・東本願寺の門前町。",
+        "Prefecture": "京都府",
+        "Latitude": 34.991667,
+        "Longitude": 135.751667
+    },
+    {
+        "Name": "加賀 (加賀)",
+        "Description": "山代温泉・薬王院温泉寺の門前。",
+        "Prefecture": "石川県",
+        "Latitude": 36.262500,
+        "Longitude": 136.356389
+    },
+    {
+        "Name": "井波 (南砺)",
+        "Description": "瑞泉寺の門前町。木彫りで有名。",
+        "Prefecture": "富山県",
+        "Latitude": 36.559444,
+        "Longitude": 136.969167
+    },
+    {
+        "Name": "城端 (南砺)",
+        "Description": "善徳寺の門前町。",
+        "Prefecture": "富山県",
+        "Latitude": 36.520833,
+        "Longitude": 136.902222
+    },
+    {
+        "Name": "高岡 (高岡)",
+        "Description": "瑞龍寺の門前町。",
+        "Prefecture": "富山県",
+        "Latitude": 36.737778,
+        "Longitude": 137.010556
+    },
+    {
+        "Name": "松山 (松山)",
+        "Description": "道後温泉は湯築城下だが石手寺門前も含む。",
+        "Prefecture": "愛媛県",
+        "Latitude": 33.851944,
+        "Longitude": 132.786389
+    },
+    {
+        "Name": "臼杵 (臼杵)",
+        "Description": "二王座歴史の道。寺町。",
+        "Prefecture": "大分県",
+        "Latitude": 33.123889,
+        "Longitude": 131.802778
+    },
+    {
+        "Name": "日向 (日向)",
+        "Description": "美々津（港町だが神社もある）。",
+        "Prefecture": "宮崎県",
+        "Latitude": 32.339167,
+        "Longitude": 131.609722
+    },
+    {
+        "Name": "知覧 (南九州)",
+        "Description": "武家屋敷だが、寺社との関わりも。",
+        "Prefecture": "鹿児島県",
+        "Latitude": 31.378333,
+        "Longitude": 130.443056
+    },
+    {
+        "Name": "首里 (那覇)",
+        "Description": "首里城下だが寺院も多い。",
+        "Prefecture": "沖縄県",
+        "Latitude": 26.218333,
+        "Longitude": 127.715278
+    },
+    {
+        "Name": "深大寺 (調布)",
+        "Description": "深大寺の門前町。深大寺そばで有名。",
+        "Prefecture": "東京都",
+        "Latitude": 35.666389,
+        "Longitude": 139.549722
+    },
+    {
+        "Name": "筑波山 (つくば)",
+        "Description": "筑波山神社の門前町。",
+        "Prefecture": "茨城県",
+        "Latitude": 36.216389,
+        "Longitude": 140.106667
+    }
+]

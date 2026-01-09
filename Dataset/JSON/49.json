@@ -1,0 +1,324 @@
+[
+    {
+        "Name": "ルスツリゾート (留寿都村)",
+        "Description": "北海道最大級の遊園地。大自然の中のアトラクション。",
+        "Prefecture": "北海道",
+        "Latitude": 42.753333,
+        "Longitude": 140.906667
+    },
+    {
+        "Name": "東京ディズニーランド (浦安市)",
+        "Description": "日本を代表するテーマパーク。",
+        "Prefecture": "千葉県",
+        "Latitude": 35.632778,
+        "Longitude": 139.881389
+    },
+    {
+        "Name": "東京ディズニーシー (浦安市)",
+        "Description": "海をテーマにしたディズニーパーク。",
+        "Prefecture": "千葉県",
+        "Latitude": 35.626667,
+        "Longitude": 139.885000
+    },
+    {
+        "Name": "ユニバーサル・スタジオ・ジャパン (大阪市)",
+        "Description": "ハリウッド映画の世界を体験できるテーマパーク。",
+        "Prefecture": "大阪府",
+        "Latitude": 34.665278,
+        "Longitude": 135.432778
+    },
+    {
+        "Name": "富士急ハイランド (富士吉田市)",
+        "Description": "絶叫マシンの聖地。富士山の麓。",
+        "Prefecture": "山梨県",
+        "Latitude": 35.486944,
+        "Longitude": 138.780556
+    },
+    {
+        "Name": "ナガシマスパーランド (桑名市)",
+        "Description": "西日本有数の絶叫マシン数。温泉やプールも。",
+        "Prefecture": "三重県",
+        "Latitude": 35.030000,
+        "Longitude": 136.730000
+    },
+    {
+        "Name": "ハウステンボス (佐世保市)",
+        "Description": "オランダの街並みを再現した日本最大級のテーマパーク。",
+        "Prefecture": "長崎県",
+        "Latitude": 33.086111,
+        "Longitude": 129.788889
+    },
+    {
+        "Name": "浅草花やしき (台東区)",
+        "Description": "日本最古の遊園地。",
+        "Prefecture": "東京都",
+        "Latitude": 35.715556,
+        "Longitude": 139.796111
+    },
+    {
+        "Name": "よみうりランド (稲城市)",
+        "Description": "バンジージャンプやジュエルミネーションで有名。",
+        "Prefecture": "東京都",
+        "Latitude": 35.626389,
+        "Longitude": 139.519444
+    },
+    {
+        "Name": "サンリオピューロランド (多摩市)",
+        "Description": "サンリオキャラクターの屋内型テーマパーク。",
+        "Prefecture": "東京都",
+        "Latitude": 35.624722,
+        "Longitude": 139.429167
+    },
+    {
+        "Name": "西武園ゆうえんち (所沢市)",
+        "Description": "昭和レトロをテーマにリニューアル。",
+        "Prefecture": "埼玉県",
+        "Latitude": 35.763333,
+        "Longitude": 139.435833
+    },
+    {
+        "Name": "東武動物公園 (宮代町)",
+        "Description": "ハイブリッド・レジャーランド。カワセミなどのコースター。",
+        "Prefecture": "埼玉県",
+        "Latitude": 36.025000,
+        "Longitude": 139.716667
+    },
+    {
+        "Name": "横浜・八景島シーパラダイス (横浜市)",
+        "Description": "水族館とアトラクションの複合施設。",
+        "Prefecture": "神奈川県",
+        "Latitude": 35.336667,
+        "Longitude": 139.646667
+    },
+    {
+        "Name": "よこはまコスモワールド (横浜市)",
+        "Description": "みなとみらいの観覧車がシンボル。",
+        "Prefecture": "神奈川県",
+        "Latitude": 35.455278,
+        "Longitude": 139.637222
+    },
+    {
+        "Name": "那須ハイランドパーク (那須町)",
+        "Description": "北関東最大級。コースターが充実。",
+        "Prefecture": "栃木県",
+        "Latitude": 37.050000,
+        "Longitude": 139.966667
+    },
+    {
+        "Name": "鈴鹿サーキット モートピア (鈴鹿市)",
+        "Description": "乗り物を操る楽しさを体験。",
+        "Prefecture": "三重県",
+        "Latitude": 34.843056,
+        "Longitude": 136.540556
+    },
+    {
+        "Name": "志摩スペイン村 パルケエスパーニャ (志摩市)",
+        "Description": "スペインをテーマにした複合リゾート。",
+        "Prefecture": "三重県",
+        "Latitude": 34.360278,
+        "Longitude": 136.845833
+    },
+    {
+        "Name": "レゴランド・ジャパン (名古屋市)",
+        "Description": "レゴブロックのテーマパーク。",
+        "Prefecture": "愛知県",
+        "Latitude": 35.050833,
+        "Longitude": 136.843056
+    },
+    {
+        "Name": "ジブリパーク (長久手市)",
+        "Description": "愛・地球博記念公園内。スタジオジブリの世界。",
+        "Prefecture": "愛知県",
+        "Latitude": 35.171389,
+        "Longitude": 137.089444
+    },
+    {
+        "Name": "ひらかたパーク (枚方市)",
+        "Description": "現存する日本最古の遊園地（継続営業）。「ひらパー」。",
+        "Prefecture": "大阪府",
+        "Latitude": 34.808333,
+        "Longitude": 135.633333
+    },
+    {
+        "Name": "姫路セントラルパーク (姫路市)",
+        "Description": "サファリと遊園地。",
+        "Prefecture": "兵庫県",
+        "Latitude": 34.883333,
+        "Longitude": 134.750000
+    },
+    {
+        "Name": "東映太秦映画村 (京都市)",
+        "Description": "時代劇のテーマパーク。",
+        "Prefecture": "京都府",
+        "Latitude": 35.015278,
+        "Longitude": 135.708333
+    },
+    {
+        "Name": "グリーンランド (荒尾市)",
+        "Description": "アトラクション数日本一。",
+        "Prefecture": "熊本県",
+        "Latitude": 32.983333,
+        "Longitude": 130.466667
+    },
+    {
+        "Name": "城島高原パーク (別府市)",
+        "Description": "木製コースター「ジュピター」。",
+        "Prefecture": "大分県",
+        "Latitude": 33.283333,
+        "Longitude": 131.433333
+    },
+    {
+        "Name": "ハーモニーランド (日出町)",
+        "Description": "サンリオキャラクターのテーマパーク。",
+        "Prefecture": "大分県",
+        "Latitude": 33.400000,
+        "Longitude": 131.533333
+    },
+    {
+        "Name": "東京ドームシティ アトラクションズ (文京区)",
+        "Description": "入園無料の都市型遊園地。旧後楽園ゆうえんち。",
+        "Prefecture": "東京都",
+        "Latitude": 35.705556,
+        "Longitude": 139.753611
+    },
+    {
+        "Name": "浜名湖パルパル (浜松市)",
+        "Description": "浜名湖畔のファミリー向け遊園地。",
+        "Prefecture": "静岡県",
+        "Latitude": 34.766667,
+        "Longitude": 137.616667
+    },
+    {
+        "Name": "NEWレオマワールド (丸亀市)",
+        "Description": "四国最大級のテーマパーク。",
+        "Prefecture": "香川県",
+        "Latitude": 34.266667,
+        "Longitude": 133.850000
+    },
+    {
+        "Name": "みろくの里 (福山市)",
+        "Description": "「いつか来た道」などレトロエリアも。",
+        "Prefecture": "広島県",
+        "Latitude": 34.383333,
+        "Longitude": 133.316667
+    },
+    {
+        "Name": "鷲羽山ハイランド (倉敷市)",
+        "Description": "ブラジリアンパーク。スカイサイクルが有名。",
+        "Prefecture": "岡山県",
+        "Latitude": 34.433333,
+        "Longitude": 133.800000
+    },
+    {
+        "Name": "おもちゃ王国 (玉野市)",
+        "Description": "おもちゃのテーマパークの本部。",
+        "Prefecture": "岡山県",
+        "Latitude": 34.450000,
+        "Longitude": 133.916667
+    },
+    {
+        "Name": "リナワールド (上山市)",
+        "Description": "東北最大級の遊園地。サンリオキャラクターとのコラボも。",
+        "Prefecture": "山形県",
+        "Latitude": 38.200000,
+        "Longitude": 140.283333
+    },
+    {
+        "Name": "八木山ベニーランド (仙台市)",
+        "Description": "仙台市民に親しまれる遊園地。",
+        "Prefecture": "宮城県",
+        "Latitude": 38.248333,
+        "Longitude": 140.845000
+    },
+    {
+        "Name": "あらかわ遊園 (荒川区)",
+        "Description": "区立遊園地。リニューアルオープン。",
+        "Prefecture": "東京都",
+        "Latitude": 35.750000,
+        "Longitude": 139.755556
+    },
+    {
+        "Name": "ワーナー ブラザース スタジオツアー東京 (練馬区)",
+        "Description": "ハリー・ポッターの屋内型施設。",
+        "Prefecture": "東京都",
+        "Latitude": 35.743056,
+        "Longitude": 139.646111
+    },
+    {
+        "Name": "東京ジョイポリス (港区)",
+        "Description": "お台場にある屋内型テーマパーク。",
+        "Prefecture": "東京都",
+        "Latitude": 35.628889,
+        "Longitude": 139.776667
+    },
+    {
+        "Name": "ナンジャタウン (豊島区)",
+        "Description": "サンシャインシティ内の屋内テーマパーク。",
+        "Prefecture": "東京都",
+        "Latitude": 35.728889,
+        "Longitude": 139.720000
+    },
+    {
+        "Name": "ルナパーク (前橋市)",
+        "Description": "「日本一懐かしい遊園地」。10円遊具など。",
+        "Prefecture": "群馬県",
+        "Latitude": 36.398611,
+        "Longitude": 139.062500
+    },
+    {
+        "Name": "生駒山上遊園地 (生駒市)",
+        "Description": "入園無料。大阪平野を一望。",
+        "Prefecture": "奈良県",
+        "Latitude": 34.683333,
+        "Longitude": 135.683333
+    },
+    {
+        "Name": "別府ラクテンチ (別府市)",
+        "Description": "ケーブルカーで行く老舗遊園地。",
+        "Prefecture": "大分県",
+        "Latitude": 33.283333,
+        "Longitude": 131.483333
+    },
+    {
+        "Name": "福岡アンパンマンこどもミュージアムinモール (福岡市)",
+        "Description": "子供向けテーマパーク。",
+        "Prefecture": "福岡県",
+        "Latitude": 33.595000,
+        "Longitude": 130.403333
+    },
+    {
+        "Name": "だざいふ遊園地 (太宰府市)",
+        "Description": "太宰府天満宮隣接。",
+        "Prefecture": "福岡県",
+        "Latitude": 33.521667,
+        "Longitude": 130.536111
+    },
+    {
+        "Name": "白い恋人パーク (札幌市)",
+        "Description": "お菓子のテーマパーク。",
+        "Prefecture": "北海道",
+        "Latitude": 43.088889,
+        "Longitude": 141.270556
+    },
+    {
+        "Name": "ムーミンバレーパーク (飯能市)",
+        "Description": "メッツァ内。ムーミンの物語の世界。",
+        "Prefecture": "埼玉県",
+        "Latitude": 35.875000,
+        "Longitude": 139.325000
+    },
+    {
+        "Name": "キッザニア東京 (江東区)",
+        "Description": "職業体験型テーマパーク。",
+        "Prefecture": "東京都",
+        "Latitude": 35.655833,
+        "Longitude": 139.790000
+    },
+    {
+        "Name": "チームラボプラネッツ TOKYO DMM (江東区)",
+        "Description": "没入型ミュージアム。",
+        "Prefecture": "東京都",
+        "Latitude": 35.646667,
+        "Longitude": 139.795833
+    }
+]

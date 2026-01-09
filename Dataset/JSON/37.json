@@ -1,0 +1,835 @@
+[
+    {
+        "Name": "加曽利貝塚 (千葉市)",
+        "Description": "特別史跡。世界最大規模の貝塚であり、縄文時代の貝塚研究の中心地。",
+        "Prefecture": "千葉県",
+        "Latitude": 35.616667,
+        "Longitude": 140.166667
+    },
+    {
+        "Name": "大森貝塚 (品川区・大田区)",
+        "Description": "国指定史跡。モース博士が発見した「日本考古学発祥の地」。",
+        "Prefecture": "東京都",
+        "Latitude": 35.583333,
+        "Longitude": 139.733333
+    },
+    {
+        "Name": "三内丸山遺跡 (青森市)",
+        "Description": "世界遺産。大規模な集落跡に伴い、北の谷・南の谷に貝塚が存在する。",
+        "Prefecture": "青森県",
+        "Latitude": 40.811111,
+        "Longitude": 140.696389
+    },
+    {
+        "Name": "モヨロ貝塚 (網走市)",
+        "Description": "国指定史跡。オホーツク文化を代表する遺跡で、貝塚と住居跡からなる。",
+        "Prefecture": "北海道",
+        "Latitude": 44.028056,
+        "Longitude": 144.261111
+    },
+    {
+        "Name": "北黄金貝塚 (伊達市)",
+        "Description": "世界遺産。噴火湾に面した大規模な貝塚で、水場遺構なども見つかっている。",
+        "Prefecture": "北海道",
+        "Latitude": 42.433333,
+        "Longitude": 140.913889
+    },
+    {
+        "Name": "入江貝塚 (洞爺湖町)",
+        "Description": "世界遺産。縄文時代前〜後期の貝塚。",
+        "Prefecture": "北海道",
+        "Latitude": 42.560278,
+        "Longitude": 140.768611
+    },
+    {
+        "Name": "大木囲貝塚 (七ヶ浜町)",
+        "Description": "国指定史跡。東北最大級の貝塚。",
+        "Prefecture": "宮城県",
+        "Latitude": 38.303611,
+        "Longitude": 141.062500
+    },
+    {
+        "Name": "里浜貝塚 (東松島市)",
+        "Description": "国指定史跡。縄文時代全期間に及ぶ巨大貝塚で、資料館も隣接。",
+        "Prefecture": "宮城県",
+        "Latitude": 38.358333,
+        "Longitude": 141.141667
+    },
+    {
+        "Name": "大串貝塚 (水戸市)",
+        "Description": "国指定史跡。「常陸国風土記」に巨人が貝を食べた場所として記される。",
+        "Prefecture": "茨城県",
+        "Latitude": 36.333333,
+        "Longitude": 140.533333
+    },
+    {
+        "Name": "陸平貝塚 (美浦村)",
+        "Description": "国指定史跡。霞ヶ浦沿岸を代表する貝塚で、「日本考古学の原点」の一つ。",
+        "Prefecture": "茨城県",
+        "Latitude": 36.016667,
+        "Longitude": 140.333333
+    },
+    {
+        "Name": "上高津貝塚 (土浦市)",
+        "Description": "国指定史跡。規模が大きく、考古資料館が併設されている。",
+        "Prefecture": "茨城県",
+        "Latitude": 36.083333,
+        "Longitude": 140.166667
+    },
+    {
+        "Name": "水子貝塚 (富士見市)",
+        "Description": "国指定史跡。公園としてよく整備されており、環状集落の様子がわかる。",
+        "Prefecture": "埼玉県",
+        "Latitude": 35.833333,
+        "Longitude": 139.550000
+    },
+    {
+        "Name": "姥山貝塚 (市川市)",
+        "Description": "国指定史跡。日本で初めて縄文時代の竪穴住居跡が発見された場所。",
+        "Prefecture": "千葉県",
+        "Latitude": 35.733333,
+        "Longitude": 139.950000
+    },
+    {
+        "Name": "堀之内貝塚 (市川市)",
+        "Description": "国指定史跡。堀之内式土器の標式遺跡として著名。",
+        "Prefecture": "千葉県",
+        "Latitude": 35.750000,
+        "Longitude": 139.916667
+    },
+    {
+        "Name": "曽谷貝塚 (市川市)",
+        "Description": "国指定史跡。典型的な馬蹄形貝塚。",
+        "Prefecture": "千葉県",
+        "Latitude": 35.750000,
+        "Longitude": 139.950000
+    },
+    {
+        "Name": "飛ノ台貝塚 (船橋市)",
+        "Description": "国指定史跡。炉穴が多く発見され、博物館がある。",
+        "Prefecture": "千葉県",
+        "Latitude": 35.716667,
+        "Longitude": 140.000000
+    },
+    {
+        "Name": "取掛西貝塚 (船橋市)",
+        "Description": "国指定史跡。縄文早期の貝塚と集落跡。",
+        "Prefecture": "千葉県",
+        "Latitude": 35.716667,
+        "Longitude": 140.033333
+    },
+    {
+        "Name": "犢橋貝塚 (千葉市)",
+        "Description": "国指定史跡。こてはし貝塚。",
+        "Prefecture": "千葉県",
+        "Latitude": 35.650000,
+        "Longitude": 140.116667
+    },
+    {
+        "Name": "荒屋敷貝塚 (千葉市)",
+        "Description": "国指定史跡。京葉道路からも見える位置にある。",
+        "Prefecture": "千葉県",
+        "Latitude": 35.600000,
+        "Longitude": 140.166667
+    },
+    {
+        "Name": "月ノ木貝塚 (千葉市)",
+        "Description": "国指定史跡。",
+        "Prefecture": "千葉県",
+        "Latitude": 35.600000,
+        "Longitude": 140.150000
+    },
+    {
+        "Name": "中里貝塚 (北区)",
+        "Description": "国指定史跡。縄文時代最大級のハマグリ加工場。",
+        "Prefecture": "東京都",
+        "Latitude": 35.750000,
+        "Longitude": 139.750000
+    },
+    {
+        "Name": "西ヶ原貝塚 (北区)",
+        "Description": "国指定史跡。武蔵野台地東縁に位置する。",
+        "Prefecture": "東京都",
+        "Latitude": 35.750000,
+        "Longitude": 139.733333
+    },
+    {
+        "Name": "夏島貝塚 (横須賀市)",
+        "Description": "国指定史跡。縄文早期の夏島式土器の標式遺跡。",
+        "Prefecture": "神奈川県",
+        "Latitude": 35.316667,
+        "Longitude": 139.633333
+    },
+    {
+        "Name": "称名寺貝塚 (横浜市)",
+        "Description": "国指定史跡。金沢文庫の近くにある。",
+        "Prefecture": "神奈川県",
+        "Latitude": 35.333333,
+        "Longitude": 139.633333
+    },
+    {
+        "Name": "蜆塚遺跡 (浜松市)",
+        "Description": "国指定史跡。公園として整備されており、蜆塚式土器の名で知られる。",
+        "Prefecture": "静岡県",
+        "Latitude": 34.716667,
+        "Longitude": 137.716667
+    },
+    {
+        "Name": "吉胡貝塚 (田原市)",
+        "Description": "国指定史跡。渥美半島の代表的貝塚で、多くの人骨が出土。",
+        "Prefecture": "愛知県",
+        "Latitude": 34.633333,
+        "Longitude": 137.266667
+    },
+    {
+        "Name": "伊川津貝塚 (田原市)",
+        "Description": "国指定史跡。縄文人の抜歯風習の研究に貢献した。",
+        "Prefecture": "愛知県",
+        "Latitude": 34.650000,
+        "Longitude": 137.200000
+    },
+    {
+        "Name": "保美貝塚 (田原市)",
+        "Description": "国指定史跡。縄文晩期の大規模貝塚。",
+        "Prefecture": "愛知県",
+        "Latitude": 34.616667,
+        "Longitude": 137.083333
+    },
+    {
+        "Name": "石山貝塚 (大津市)",
+        "Description": "国指定史跡。琵琶湖の淡水産貝塚（セタシジミ）。",
+        "Prefecture": "滋賀県",
+        "Latitude": 34.966667,
+        "Longitude": 135.900000
+    },
+    {
+        "Name": "森の宮遺跡 (大阪市)",
+        "Description": "大阪城公園の南側に位置する西日本最大級の貝塚。",
+        "Prefecture": "大阪府",
+        "Latitude": 34.683333,
+        "Longitude": 135.533333
+    },
+    {
+        "Name": "日下貝塚 (東大阪市)",
+        "Description": "国指定史跡。生駒山西麓の縄文貝塚。",
+        "Prefecture": "大阪府",
+        "Latitude": 34.683333,
+        "Longitude": 135.650000
+    },
+    {
+        "Name": "津雲貝塚 (笠岡市)",
+        "Description": "国指定史跡。大量の埋葬人骨が出土したことで有名。",
+        "Prefecture": "岡山県",
+        "Latitude": 34.466667,
+        "Longitude": 133.533333
+    },
+    {
+        "Name": "彦崎貝塚 (岡山市)",
+        "Description": "国指定史跡。縄文前期から晩期にかけて形成された。",
+        "Prefecture": "岡山県",
+        "Latitude": 34.550000,
+        "Longitude": 133.866667
+    },
+    {
+        "Name": "轟貝塚 (宇土市)",
+        "Description": "国指定史跡。九州縄文前期の轟式土器の標式遺跡。",
+        "Prefecture": "熊本県",
+        "Latitude": 32.683333,
+        "Longitude": 130.666667
+    },
+    {
+        "Name": "阿高貝塚 (熊本市)",
+        "Description": "国指定史跡。阿高式土器の標式遺跡。",
+        "Prefecture": "熊本県",
+        "Latitude": 32.733333,
+        "Longitude": 130.683333
+    },
+    {
+        "Name": "曽畑貝塚 (宇土市)",
+        "Description": "国指定史跡。朝鮮半島との交流を示す曽畑式土器が出土。",
+        "Prefecture": "熊本県",
+        "Latitude": 32.666667,
+        "Longitude": 130.650000
+    },
+    {
+        "Name": "出水貝塚 (鹿児島市)",
+        "Description": "国指定史跡。",
+        "Prefecture": "鹿児島県",
+        "Latitude": 31.566667,
+        "Longitude": 130.533333
+    },
+    {
+        "Name": "市来貝塚 (いちき串木野市)",
+        "Description": "国指定史跡。",
+        "Prefecture": "鹿児島県",
+        "Latitude": 31.700000,
+        "Longitude": 130.283333
+    },
+    {
+        "Name": "広田遺跡 (南種子町)",
+        "Description": "国指定史跡。種子島にある貝塚を伴う墓地遺跡。",
+        "Prefecture": "鹿児島県",
+        "Latitude": 30.416667,
+        "Longitude": 130.950000
+    },
+    {
+        "Name": "荻堂貝塚 (北中城村)",
+        "Description": "国指定史跡。沖縄の代表的な貝塚。",
+        "Prefecture": "沖縄県",
+        "Latitude": 26.283333,
+        "Longitude": 127.783333
+    },
+    {
+        "Name": "伊波貝塚 (うるま市)",
+        "Description": "国指定史跡。沖縄貝塚文化の研究に重要。",
+        "Prefecture": "沖縄県",
+        "Latitude": 26.416667,
+        "Longitude": 127.816667
+    },
+    {
+        "Name": "室川貝塚 (沖縄市)",
+        "Description": "国指定史跡。",
+        "Prefecture": "沖縄県",
+        "Latitude": 26.333333,
+        "Longitude": 127.800000
+    },
+    {
+        "Name": "大山貝塚 (宜野湾市)",
+        "Description": "国指定史跡。",
+        "Prefecture": "沖縄県",
+        "Latitude": 26.266667,
+        "Longitude": 127.733333
+    },
+    {
+        "Name": "東釧路貝塚 (釧路市)",
+        "Description": "国指定史跡。国内有数の規模を持つ前期貝塚。",
+        "Prefecture": "北海道",
+        "Latitude": 42.986111,
+        "Longitude": 144.408333
+    },
+    {
+        "Name": "常呂遺跡 (北見市)",
+        "Description": "国指定史跡。竪穴住居群とともに貝塚も確認される。",
+        "Prefecture": "北海道",
+        "Latitude": 44.116667,
+        "Longitude": 144.066667
+    },
+    {
+        "Name": "二ツ森貝塚 (七戸町)",
+        "Description": "世界遺産。太平洋側と日本海側の特徴を併せ持つ。",
+        "Prefecture": "青森県",
+        "Latitude": 40.733333,
+        "Longitude": 141.216667
+    },
+    {
+        "Name": "是川石器時代遺跡 (八戸市)",
+        "Description": "国指定史跡。中居遺跡に貝塚が含まれる。",
+        "Prefecture": "青森県",
+        "Latitude": 40.483333,
+        "Longitude": 141.483333
+    },
+    {
+        "Name": "真福寺貝塚 (さいたま市)",
+        "Description": "国指定史跡。ミミズク土偶などの出土で知られる。",
+        "Prefecture": "埼玉県",
+        "Latitude": 35.950000,
+        "Longitude": 139.683333
+    },
+    {
+        "Name": "黒浜貝塚 (蓮田市)",
+        "Description": "国指定史跡。黒浜式土器の標式遺跡。",
+        "Prefecture": "埼玉県",
+        "Latitude": 36.000000,
+        "Longitude": 139.650000
+    },
+    {
+        "Name": "山野貝塚 (袖ケ浦市)",
+        "Description": "国指定史跡。",
+        "Prefecture": "千葉県",
+        "Latitude": 35.433333,
+        "Longitude": 140.966667
+    },
+    {
+        "Name": "阿玉台貝塚 (香取市)",
+        "Description": "国指定史跡。利根川下流域の拠点。",
+        "Prefecture": "千葉県",
+        "Latitude": 35.833333,
+        "Longitude": 140.566667
+    },
+    {
+        "Name": "良文貝塚 (香取市)",
+        "Description": "国指定史跡。",
+        "Prefecture": "千葉県",
+        "Latitude": 35.816667,
+        "Longitude": 140.600000
+    },
+    {
+        "Name": "余山貝塚 (銚子市)",
+        "Description": "国指定史跡。",
+        "Prefecture": "千葉県",
+        "Latitude": 35.766667,
+        "Longitude": 140.800000
+    },
+    {
+        "Name": "有吉北貝塚 (千葉市)",
+        "Description": "国指定史跡。日本最大級の環状貝塚。",
+        "Prefecture": "千葉県",
+        "Latitude": 35.550000,
+        "Longitude": 140.166667
+    },
+    {
+        "Name": "西ノ城貝塚 (神崎町)",
+        "Description": "国指定史跡。",
+        "Prefecture": "千葉県",
+        "Latitude": 35.900000,
+        "Longitude": 140.400000
+    },
+    {
+        "Name": "茅山貝塚 (横須賀市)",
+        "Description": "国指定史跡。",
+        "Prefecture": "神奈川県",
+        "Latitude": 35.233333,
+        "Longitude": 139.683333
+    },
+    {
+        "Name": "三殿台遺跡 (横浜市)",
+        "Description": "国指定史跡。高台にある集落跡だが、貝塚も伴う。",
+        "Prefecture": "神奈川県",
+        "Latitude": 35.416667,
+        "Longitude": 139.600000
+    },
+    {
+        "Name": "五領ヶ台貝塚 (平塚市)",
+        "Description": "国指定史跡。五領ヶ台式土器。",
+        "Prefecture": "神奈川県",
+        "Latitude": 35.350000,
+        "Longitude": 139.316667
+    },
+    {
+        "Name": "大曲輪貝塚 (名古屋市)",
+        "Description": "国指定史跡。",
+        "Prefecture": "愛知県",
+        "Latitude": 35.183333,
+        "Longitude": 136.933333
+    },
+    {
+        "Name": "朝日遺跡 (清須市)",
+        "Description": "国指定史跡。弥生時代の大規模集落に伴う貝塚。",
+        "Prefecture": "愛知県",
+        "Latitude": 35.216667,
+        "Longitude": 136.833333
+    },
+    {
+        "Name": "国府遺跡 (藤井寺市)",
+        "Description": "国指定史跡。旧石器から縄文にかけての複合遺跡。",
+        "Prefecture": "大阪府",
+        "Latitude": 34.566667,
+        "Longitude": 135.600000
+    },
+    {
+        "Name": "鳴神貝塚 (和歌山市)",
+        "Description": "国指定史跡。",
+        "Prefecture": "和歌山県",
+        "Latitude": 34.233333,
+        "Longitude": 135.200000
+    },
+    {
+        "Name": "福田貝塚 (福山市)",
+        "Description": "国指定史跡。",
+        "Prefecture": "広島県",
+        "Latitude": 34.533333,
+        "Longitude": 133.300000
+    },
+    {
+        "Name": "門田貝塚 (瀬戸内市)",
+        "Description": "国指定史跡。",
+        "Prefecture": "岡山県",
+        "Latitude": 34.650000,
+        "Longitude": 134.100000
+    },
+    {
+        "Name": "黄島貝塚 (瀬戸内市)",
+        "Description": "国指定史跡。",
+        "Prefecture": "岡山県",
+        "Latitude": 34.600000,
+        "Longitude": 134.166667
+    },
+    {
+        "Name": "朝寝鼻貝塚 (岡山市)",
+        "Description": "国指定史跡。",
+        "Prefecture": "岡山県",
+        "Latitude": 34.583333,
+        "Longitude": 133.950000
+    },
+    {
+        "Name": "宿毛貝塚 (宿毛市)",
+        "Description": "国指定史跡。",
+        "Prefecture": "高知県",
+        "Latitude": 32.933333,
+        "Longitude": 132.716667
+    },
+    {
+        "Name": "平城貝塚 (愛南町)",
+        "Description": "国指定史跡。",
+        "Prefecture": "愛媛県",
+        "Latitude": 32.966667,
+        "Longitude": 132.566667
+    },
+    {
+        "Name": "御領貝塚 (熊本市)",
+        "Description": "国指定史跡。",
+        "Prefecture": "熊本県",
+        "Latitude": 32.750000,
+        "Longitude": 130.700000
+    },
+    {
+        "Name": "大野貝塚 (玉名市)",
+        "Description": "国指定史跡。",
+        "Prefecture": "熊本県",
+        "Latitude": 32.916667,
+        "Longitude": 130.550000
+    },
+    {
+        "Name": "上野原遺跡 (霧島市)",
+        "Description": "国指定史跡。定住集落跡が中心だが、調理場など生活痕跡が残る。",
+        "Prefecture": "鹿児島県",
+        "Latitude": 31.716667,
+        "Longitude": 130.800000
+    },
+    {
+        "Name": "仲原遺跡 (うるま市)",
+        "Description": "国指定史跡。沖縄の集落遺跡。",
+        "Prefecture": "沖縄県",
+        "Latitude": 26.383333,
+        "Longitude": 127.933333
+    },
+    {
+        "Name": "高砂貝塚 (洞爺湖町)",
+        "Description": "入江貝塚に隣接する縄文晩期の貝塚。",
+        "Prefecture": "北海道",
+        "Latitude": 42.561111,
+        "Longitude": 140.765278
+    },
+    {
+        "Name": "南境貝塚 (石巻市)",
+        "Description": "人骨や骨角器が多数出土した。",
+        "Prefecture": "宮城県",
+        "Latitude": 38.450000,
+        "Longitude": 141.300000
+    },
+    {
+        "Name": "沼津貝塚 (石巻市)",
+        "Description": "国指定史跡。淡水産のヤマトシジミが主体の貝塚。",
+        "Prefecture": "宮城県",
+        "Latitude": 38.533333,
+        "Longitude": 141.383333
+    },
+    {
+        "Name": "中沢目貝塚 (大崎市)",
+        "Description": "巨大なシジミ貝塚。",
+        "Prefecture": "宮城県",
+        "Latitude": 38.566667,
+        "Longitude": 141.016667
+    },
+    {
+        "Name": "田柄貝塚 (つがる市)",
+        "Description": "亀ヶ岡石器時代遺跡の一部。",
+        "Prefecture": "青森県",
+        "Latitude": 40.883333,
+        "Longitude": 140.350000
+    },
+    {
+        "Name": "泉沢貝塚 (石巻市)",
+        "Description": "カキ殻主体の貝塚。",
+        "Prefecture": "宮城県",
+        "Latitude": 38.433333,
+        "Longitude": 141.333333
+    },
+    {
+        "Name": "上淀川貝塚 (大仙市)",
+        "Description": "内陸部に位置する淡水産貝塚。",
+        "Prefecture": "秋田県",
+        "Latitude": 39.516667,
+        "Longitude": 140.400000
+    },
+    {
+        "Name": "地蔵田遺跡 (秋田市)",
+        "Description": "旧石器時代から縄文時代にかけての複合遺跡。",
+        "Prefecture": "秋田県",
+        "Latitude": 39.683333,
+        "Longitude": 140.133333
+    },
+    {
+        "Name": "南平台貝塚 (石岡市)",
+        "Description": "ヤマトシジミ主体の貝塚。",
+        "Prefecture": "茨城県",
+        "Latitude": 36.216667,
+        "Longitude": 140.283333
+    },
+    {
+        "Name": "小谷場貝塚 (川口市)",
+        "Description": "植竹貝塚とも呼ばれる。",
+        "Prefecture": "埼玉県",
+        "Latitude": 35.850000,
+        "Longitude": 139.683333
+    },
+    {
+        "Name": "神明貝塚 (春日部市)",
+        "Description": "国指定史跡。",
+        "Prefecture": "埼玉県",
+        "Latitude": 35.983333,
+        "Longitude": 139.783333
+    },
+    {
+        "Name": "寿能泥炭層遺跡 (さいたま市)",
+        "Description": "貝塚も含む低湿地遺跡。",
+        "Prefecture": "埼玉県",
+        "Latitude": 35.916667,
+        "Longitude": 139.650000
+    },
+    {
+        "Name": "貝塚町貝塚 (千葉市)",
+        "Description": "千葉市の地名「貝塚」の由来となった場所。",
+        "Prefecture": "千葉県",
+        "Latitude": 35.616667,
+        "Longitude": 140.133333
+    },
+    {
+        "Name": "藤崎堀込貝塚 (習志野市)",
+        "Description": "千葉県指定史跡。",
+        "Prefecture": "千葉県",
+        "Latitude": 35.683333,
+        "Longitude": 140.033333
+    },
+    {
+        "Name": "上座貝塚 (佐倉市)",
+        "Description": "千葉県指定史跡。",
+        "Prefecture": "千葉県",
+        "Latitude": 35.716667,
+        "Longitude": 140.183333
+    },
+    {
+        "Name": "井野長割遺跡 (佐倉市)",
+        "Description": "貝塚を伴う大規模集落。",
+        "Prefecture": "千葉県",
+        "Latitude": 35.733333,
+        "Longitude": 140.150000
+    },
+    {
+        "Name": "城ノ台貝塚 (千葉市)",
+        "Description": "加曽利貝塚の近くに位置する。",
+        "Prefecture": "千葉県",
+        "Latitude": 35.616667,
+        "Longitude": 140.170000
+    },
+    {
+        "Name": "大膳野南貝塚 (千葉市)",
+        "Description": "多くの埋葬人骨が発見された。",
+        "Prefecture": "千葉県",
+        "Latitude": 35.550000,
+        "Longitude": 140.183333
+    },
+    {
+        "Name": "飯郷作遺跡 (佐倉市)",
+        "Description": "住居跡と貝塚。",
+        "Prefecture": "千葉県",
+        "Latitude": 35.716667,
+        "Longitude": 140.216667
+    },
+    {
+        "Name": "吉井貝塚 (横芝光町)",
+        "Description": "海匝地域の代表的貝塚。",
+        "Prefecture": "千葉県",
+        "Latitude": 35.650000,
+        "Longitude": 140.500000
+    },
+    {
+        "Name": "向台貝塚 (市川市)",
+        "Description": "市立市川考古博物館の近く。",
+        "Prefecture": "千葉県",
+        "Latitude": 35.750000,
+        "Longitude": 139.916667
+    },
+    {
+        "Name": "権現後貝塚 (市原市)",
+        "Description": "市原市にある貝塚。",
+        "Prefecture": "千葉県",
+        "Latitude": 35.500000,
+        "Longitude": 140.100000
+    },
+    {
+        "Name": "祇園原貝塚 (市原市)",
+        "Description": "縄文中期の貝塚。",
+        "Prefecture": "千葉県",
+        "Latitude": 35.483333,
+        "Longitude": 140.116667
+    },
+    {
+        "Name": "大倉南貝塚 (香取市)",
+        "Description": "環状貝塚。",
+        "Prefecture": "千葉県",
+        "Latitude": 35.850000,
+        "Longitude": 140.550000
+    },
+    {
+        "Name": "木戸台貝塚 (千葉市)",
+        "Description": "市内有数の規模を持つ。",
+        "Prefecture": "千葉県",
+        "Latitude": 35.633333,
+        "Longitude": 140.150000
+    },
+    {
+        "Name": "三ヶ谷貝塚 (松戸市)",
+        "Description": "貝の花貝塚とも呼ばれる。",
+        "Prefecture": "千葉県",
+        "Latitude": 35.800000,
+        "Longitude": 139.933333
+    },
+    {
+        "Name": "幸田貝塚 (松戸市)",
+        "Description": "縄文前期の貝塚。",
+        "Prefecture": "千葉県",
+        "Latitude": 35.816667,
+        "Longitude": 139.916667
+    },
+    {
+        "Name": "伊皿子貝塚 (港区)",
+        "Description": "東京都港区にある貝塚。",
+        "Prefecture": "東京都",
+        "Latitude": 35.633333,
+        "Longitude": 139.733333
+    },
+    {
+        "Name": "多摩ニュータウンNo.72遺跡 (多摩市)",
+        "Description": "多摩丘陵にある貝塚。",
+        "Prefecture": "東京都",
+        "Latitude": 35.616667,
+        "Longitude": 139.433333
+    },
+    {
+        "Name": "吉井貝塚 (横須賀市)",
+        "Description": "海蝕洞穴を利用した遺跡。",
+        "Prefecture": "神奈川県",
+        "Latitude": 35.250000,
+        "Longitude": 139.683333
+    },
+    {
+        "Name": "野島貝塚 (横浜市)",
+        "Description": "横浜市指定史跡。",
+        "Prefecture": "神奈川県",
+        "Latitude": 35.316667,
+        "Longitude": 139.633333
+    },
+    {
+        "Name": "堤貝塚 (茅ヶ崎市)",
+        "Description": "神奈川県指定史跡。",
+        "Prefecture": "神奈川県",
+        "Latitude": 35.350000,
+        "Longitude": 139.416667
+    },
+    {
+        "Name": "勝坂遺跡 (相模原市)",
+        "Description": "国指定史跡。縄文中期の大集落だが、一部に貝塚も伴う。",
+        "Prefecture": "神奈川県",
+        "Latitude": 35.516667,
+        "Longitude": 139.383333
+    },
+    {
+        "Name": "大まち遺跡 (浜松市)",
+        "Description": "蜆塚遺跡の近くにある。",
+        "Prefecture": "静岡県",
+        "Latitude": 34.716667,
+        "Longitude": 137.720000
+    },
+    {
+        "Name": "粕畠貝塚 (田原市)",
+        "Description": "渥美半島の貝塚。",
+        "Prefecture": "愛知県",
+        "Latitude": 34.650000,
+        "Longitude": 137.150000
+    },
+    {
+        "Name": "見晴台遺跡 (名古屋市)",
+        "Description": "笠寺公園内にあり、住居跡と貝塚が見つかっている。",
+        "Prefecture": "愛知県",
+        "Latitude": 35.100000,
+        "Longitude": 136.933333
+    },
+    {
+        "Name": "粟津湖底遺跡 (大津市)",
+        "Description": "琵琶湖の湖底にある貝塚。",
+        "Prefecture": "滋賀県",
+        "Latitude": 34.983333,
+        "Longitude": 135.900000
+    },
+    {
+        "Name": "南滋賀遺跡 (大津市)",
+        "Description": "貝塚を伴う遺跡。",
+        "Prefecture": "滋賀県",
+        "Latitude": 35.033333,
+        "Longitude": 135.866667
+    },
+    {
+        "Name": "藤江氏家遺跡 (明石市)",
+        "Description": "弥生時代の貝塚。",
+        "Prefecture": "兵庫県",
+        "Latitude": 34.666667,
+        "Longitude": 134.950000
+    },
+    {
+        "Name": "雲山井手遺跡 (神戸市)",
+        "Description": "製塩土器などが出土。",
+        "Prefecture": "兵庫県",
+        "Latitude": 34.633333,
+        "Longitude": 135.050000
+    },
+    {
+        "Name": "高山寺貝塚 (田辺市)",
+        "Description": "縄文早期の貝塚。",
+        "Prefecture": "和歌山県",
+        "Latitude": 33.733333,
+        "Longitude": 135.366667
+    },
+    {
+        "Name": "中津貝塚 (倉敷市)",
+        "Description": "岡山県の貝塚。",
+        "Prefecture": "岡山県",
+        "Latitude": 34.566667,
+        "Longitude": 133.750000
+    },
+    {
+        "Name": "船越貝塚 (愛南町)",
+        "Description": "愛媛県の貝塚。",
+        "Prefecture": "愛媛県",
+        "Latitude": 32.950000,
+        "Longitude": 132.500000
+    },
+    {
+        "Name": "神郷貝塚 (新居浜市)",
+        "Description": "弥生時代の貝塚。",
+        "Prefecture": "愛媛県",
+        "Latitude": 33.966667,
+        "Longitude": 133.316667
+    },
+    {
+        "Name": "桑原飛尾貝塚 (玉名市)",
+        "Description": "熊本県の貝塚。",
+        "Prefecture": "熊本県",
+        "Latitude": 32.933333,
+        "Longitude": 130.566667
+    },
+    {
+        "Name": "石本貝塚 (玉名市)",
+        "Description": "熊本県の貝塚。",
+        "Prefecture": "熊本県",
+        "Latitude": 32.916667,
+        "Longitude": 130.566667
+    },
+    {
+        "Name": "指宿橋牟礼川遺跡 (指宿市)",
+        "Description": "国指定史跡。火山灰層と土器の関係が明らかになった重要な遺跡。",
+        "Prefecture": "鹿児島県",
+        "Latitude": 31.233333,
+        "Longitude": 130.633333
+    }
+]

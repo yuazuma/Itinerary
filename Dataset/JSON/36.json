@@ -1,0 +1,625 @@
+[
+    {
+        "Name": "大仙陵古墳 (堺市)",
+        "Description": "仁徳天皇陵。日本最大の前方後円墳。百舌鳥古墳群の中心的構成資産（世界遺産）。",
+        "Prefecture": "大阪府",
+        "Latitude": 34.564444,
+        "Longitude": 135.487778
+    },
+    {
+        "Name": "誉田御廟山古墳 (羽曳野市)",
+        "Description": "応神天皇陵。日本第2位の規模・体積日本一。古市古墳群（世界遺産）。",
+        "Prefecture": "大阪府",
+        "Latitude": 34.563056,
+        "Longitude": 135.608333
+    },
+    {
+        "Name": "上石津ミサンザイ古墳 (堺市)",
+        "Description": "履中天皇陵。日本第3位の規模。百舌鳥古墳群（世界遺産）。",
+        "Prefecture": "大阪府",
+        "Latitude": 34.553333,
+        "Longitude": 135.480000
+    },
+    {
+        "Name": "造山古墳 (岡山市)",
+        "Description": "日本第4位の規模（全長350m）。立ち入り可能な古墳としては日本最大。",
+        "Prefecture": "岡山県",
+        "Latitude": 34.673611,
+        "Longitude": 133.805278
+    },
+    {
+        "Name": "河内大塚山古墳 (松原市)",
+        "Description": "日本第5位の規模。大塚山古墳とも。",
+        "Prefecture": "大阪府",
+        "Latitude": 34.577222,
+        "Longitude": 135.576389
+    },
+    {
+        "Name": "見瀬丸山古墳 (橿原市)",
+        "Description": "日本第6位の規模（全長310m）。奈良県最大。",
+        "Prefecture": "奈良県",
+        "Latitude": 34.473056,
+        "Longitude": 135.798333
+    },
+    {
+        "Name": "土師ニサンザイ古墳 (堺市)",
+        "Description": "百舌鳥古墳群の大型前方後円墳（世界遺産）。非常に美しい形状を残す。",
+        "Prefecture": "大阪府",
+        "Latitude": 34.546667,
+        "Longitude": 135.498889
+    },
+    {
+        "Name": "御廟山古墳 (堺市)",
+        "Description": "百舌鳥古墳群（世界遺産）。",
+        "Prefecture": "大阪府",
+        "Latitude": 34.554722,
+        "Longitude": 135.490833
+    },
+    {
+        "Name": "仲津山古墳 (藤井寺市)",
+        "Description": "仲姫命陵。古市古墳群（世界遺産）。",
+        "Prefecture": "大阪府",
+        "Latitude": 34.570000,
+        "Longitude": 135.612500
+    },
+    {
+        "Name": "岡ミサンザイ古墳 (藤井寺市)",
+        "Description": "仲哀天皇陵。古市古墳群（世界遺産）。",
+        "Prefecture": "大阪府",
+        "Latitude": 34.565833,
+        "Longitude": 135.594167
+    },
+    {
+        "Name": "市ノ山古墳 (藤井寺市)",
+        "Description": "允恭天皇陵。古市古墳群（世界遺産）。",
+        "Prefecture": "大阪府",
+        "Latitude": 34.573056,
+        "Longitude": 135.616667
+    },
+    {
+        "Name": "作山古墳 (総社市)",
+        "Description": "日本第10位の規模（全長282m）。吉備の大首長の墓。",
+        "Prefecture": "岡山県",
+        "Latitude": 34.675000,
+        "Longitude": 133.778889
+    },
+    {
+        "Name": "箸墓古墳 (桜井市)",
+        "Description": "卑弥呼の墓説がある最古級の巨大前方後円墳（全長278m）。",
+        "Prefecture": "奈良県",
+        "Latitude": 34.539167,
+        "Longitude": 135.841111
+    },
+    {
+        "Name": "五色塚古墳 (神戸市)",
+        "Description": "兵庫県最大の前方後円墳。復元整備され、明石海峡を望む。",
+        "Prefecture": "兵庫県",
+        "Latitude": 34.628056,
+        "Longitude": 135.038889
+    },
+    {
+        "Name": "今城塚古墳 (高槻市)",
+        "Description": "継体天皇の真の陵墓とされる。淀川流域最大。",
+        "Prefecture": "大阪府",
+        "Latitude": 34.851389,
+        "Longitude": 135.590278
+    },
+    {
+        "Name": "太田茶臼山古墳 (茨木市)",
+        "Description": "継体天皇陵として治定されているが、築造時期にずれがある。",
+        "Prefecture": "大阪府",
+        "Latitude": 34.843611,
+        "Longitude": 135.578611
+    },
+    {
+        "Name": "石舞台古墳 (明日香村)",
+        "Description": "蘇我馬子の墓とされる方墳。巨大な横穴式石室が露出している。",
+        "Prefecture": "奈良県",
+        "Latitude": 34.466944,
+        "Longitude": 135.826111
+    },
+    {
+        "Name": "高松塚古墳 (明日香村)",
+        "Description": "極彩色壁画（国宝）で有名。特別史跡。",
+        "Prefecture": "奈良県",
+        "Latitude": 34.460833,
+        "Longitude": 135.807500
+    },
+    {
+        "Name": "キトラ古墳 (明日香村)",
+        "Description": "四神や天文図の壁画で有名。特別史跡。",
+        "Prefecture": "奈良県",
+        "Latitude": 34.455278,
+        "Longitude": 135.801111
+    },
+    {
+        "Name": "稲荷山古墳 (行田市)",
+        "Description": "さきたま古墳群。金錯銘鉄剣（国宝）が出土。",
+        "Prefecture": "埼玉県",
+        "Latitude": 36.124722,
+        "Longitude": 139.480000
+    },
+    {
+        "Name": "丸墓山古墳 (行田市)",
+        "Description": "さきたま古墳群。日本最大級の円墳。",
+        "Prefecture": "埼玉県",
+        "Latitude": 36.125833,
+        "Longitude": 139.478889
+    },
+    {
+        "Name": "二子山古墳 (行田市)",
+        "Description": "さきたま古墳群最大の前方後円墳。",
+        "Prefecture": "埼玉県",
+        "Latitude": 36.127778,
+        "Longitude": 139.478611
+    },
+    {
+        "Name": "将軍山古墳 (行田市)",
+        "Description": "さきたま古墳群。内部が見学できる展示館がある。",
+        "Prefecture": "埼玉県",
+        "Latitude": 36.128333,
+        "Longitude": 139.480556
+    },
+    {
+        "Name": "鉄砲山古墳 (行田市)",
+        "Description": "さきたま古墳群。",
+        "Prefecture": "埼玉県",
+        "Latitude": 36.127222,
+        "Longitude": 139.481389
+    },
+    {
+        "Name": "瓦塚古墳 (行田市)",
+        "Description": "さきたま古墳群。",
+        "Prefecture": "埼玉県",
+        "Latitude": 36.125278,
+        "Longitude": 139.482778
+    },
+    {
+        "Name": "奥の山古墳 (行田市)",
+        "Description": "さきたま古墳群。",
+        "Prefecture": "埼玉県",
+        "Latitude": 36.125556,
+        "Longitude": 139.483611
+    },
+    {
+        "Name": "中の山古墳 (行田市)",
+        "Description": "さきたま古墳群。",
+        "Prefecture": "埼玉県",
+        "Latitude": 36.126111,
+        "Longitude": 139.484167
+    },
+    {
+        "Name": "愛宕山古墳 (行田市)",
+        "Description": "さきたま古墳群。",
+        "Prefecture": "埼玉県",
+        "Latitude": 36.124444,
+        "Longitude": 139.478056
+    },
+    {
+        "Name": "太田天神山古墳 (太田市)",
+        "Description": "東日本最大の前方後円墳（全長210m）。",
+        "Prefecture": "群馬県",
+        "Latitude": 36.295278,
+        "Longitude": 139.375278
+    },
+    {
+        "Name": "八幡塚古墳 (高崎市)",
+        "Description": "保渡田古墳群。葺石や埴輪列が復元されている。",
+        "Prefecture": "群馬県",
+        "Latitude": 36.375278,
+        "Longitude": 138.981944
+    },
+    {
+        "Name": "二子山古墳 (高崎市)",
+        "Description": "保渡田古墳群。",
+        "Prefecture": "群馬県",
+        "Latitude": 36.373611,
+        "Longitude": 138.985000
+    },
+    {
+        "Name": "薬師塚古墳 (高崎市)",
+        "Description": "保渡田古墳群。",
+        "Prefecture": "群馬県",
+        "Latitude": 36.376111,
+        "Longitude": 138.980556
+    },
+    {
+        "Name": "綿貫観音山古墳 (高崎市)",
+        "Description": "副葬品が国宝に指定されている。",
+        "Prefecture": "群馬県",
+        "Latitude": 36.313056,
+        "Longitude": 139.068056
+    },
+    {
+        "Name": "岩戸山古墳 (八女市)",
+        "Description": "九州最大の前方後円墳。筑紫君磐井の墓とされる。",
+        "Prefecture": "福岡県",
+        "Latitude": 33.225000,
+        "Longitude": 130.556667
+    },
+    {
+        "Name": "石人山古墳 (広川町)",
+        "Description": "八女古墳群。武装石人で有名。",
+        "Prefecture": "福岡県",
+        "Latitude": 33.230556,
+        "Longitude": 130.548333
+    },
+    {
+        "Name": "王塚古墳 (桂川町)",
+        "Description": "日本を代表する装飾古墳（特別史跡）。",
+        "Prefecture": "福岡県",
+        "Latitude": 33.583333,
+        "Longitude": 130.666667
+    },
+    {
+        "Name": "江田船山古墳 (和水町)",
+        "Description": "銀象嵌銘大刀などの国宝が出土。",
+        "Prefecture": "熊本県",
+        "Latitude": 32.961111,
+        "Longitude": 130.587222
+    },
+    {
+        "Name": "女狭穂塚古墳 (西都市)",
+        "Description": "西都原古墳群。九州最大の前方後円墳。",
+        "Prefecture": "宮崎県",
+        "Latitude": 32.118333,
+        "Longitude": 131.380000
+    },
+    {
+        "Name": "男狭穂塚古墳 (西都市)",
+        "Description": "西都原古墳群。国内最大の帆立貝形古墳。",
+        "Prefecture": "宮崎県",
+        "Latitude": 32.119444,
+        "Longitude": 131.381111
+    },
+    {
+        "Name": "鬼の窟古墳 (西都市)",
+        "Description": "西都原古墳群。横穴式石室が開口。",
+        "Prefecture": "宮崎県",
+        "Latitude": 32.115000,
+        "Longitude": 131.385000
+    },
+    {
+        "Name": "雷神山古墳 (名取市)",
+        "Description": "東北地方最大の前方後円墳。",
+        "Prefecture": "宮城県",
+        "Latitude": 38.156111,
+        "Longitude": 140.887222
+    },
+    {
+        "Name": "亀ヶ森古墳 (会津坂下町)",
+        "Description": "東北地方第2位の規模。",
+        "Prefecture": "福島県",
+        "Latitude": 37.593056,
+        "Longitude": 139.831944
+    },
+    {
+        "Name": "大安場古墳 (郡山市)",
+        "Description": "東北地方最大級の方墳。",
+        "Prefecture": "福島県",
+        "Latitude": 37.356389,
+        "Longitude": 140.404167
+    },
+    {
+        "Name": "甲斐銚子塚古墳 (甲府市)",
+        "Description": "東日本最大級の前方後円墳。三角縁神獣鏡が出土。",
+        "Prefecture": "山梨県",
+        "Latitude": 35.570000,
+        "Longitude": 138.580000
+    },
+    {
+        "Name": "森将軍塚古墳 (千曲市)",
+        "Description": "山頂に位置する前方後円墳。復元されている。",
+        "Prefecture": "長野県",
+        "Latitude": 36.533333,
+        "Longitude": 138.133333
+    },
+    {
+        "Name": "断夫山古墳 (名古屋市)",
+        "Description": "東海地方最大の前方後円墳。",
+        "Prefecture": "愛知県",
+        "Latitude": 35.130000,
+        "Longitude": 136.900000
+    },
+    {
+        "Name": "青塚古墳 (犬山市)",
+        "Description": "愛知県第2位の規模。復元整備されている。",
+        "Prefecture": "愛知県",
+        "Latitude": 35.320000,
+        "Longitude": 136.930000
+    },
+    {
+        "Name": "志段味古墳群 (名古屋市)",
+        "Description": "白鳥塚古墳などからなる古墳群。",
+        "Prefecture": "愛知県",
+        "Latitude": 35.250000,
+        "Longitude": 137.033333
+    },
+    {
+        "Name": "いたすけ古墳 (堺市)",
+        "Description": "百舌鳥古墳群。タヌキが住み着いていることで有名（世界遺産）。",
+        "Prefecture": "大阪府",
+        "Latitude": 34.553056,
+        "Longitude": 135.485833
+    },
+    {
+        "Name": "永山古墳 (堺市)",
+        "Description": "百舌鳥古墳群（世界遺産）。",
+        "Prefecture": "大阪府",
+        "Latitude": 34.568056,
+        "Longitude": 135.486667
+    },
+    {
+        "Name": "長塚古墳 (堺市)",
+        "Description": "百舌鳥古墳群（世界遺産）。",
+        "Prefecture": "大阪府",
+        "Latitude": 34.557778,
+        "Longitude": 135.487500
+    },
+    {
+        "Name": "田出井山古墳 (堺市)",
+        "Description": "反正天皇陵。百舌鳥古墳群（世界遺産）。",
+        "Prefecture": "大阪府",
+        "Latitude": 34.576111,
+        "Longitude": 135.488333
+    },
+    {
+        "Name": "津堂城山古墳 (藤井寺市)",
+        "Description": "古市古墳群（世界遺産）。ガイダンス施設がある。",
+        "Prefecture": "大阪府",
+        "Latitude": 34.581944,
+        "Longitude": 135.593611
+    },
+    {
+        "Name": "軽里大塚古墳 (羽曳野市)",
+        "Description": "白鳥陵（日本武尊墓）。古市古墳群（世界遺産）。",
+        "Prefecture": "大阪府",
+        "Latitude": 34.558333,
+        "Longitude": 135.603333
+    },
+    {
+        "Name": "峯ヶ塚古墳 (羽曳野市)",
+        "Description": "古市古墳群（世界遺産）。豪華な副葬品が出土。",
+        "Prefecture": "大阪府",
+        "Latitude": 34.552222,
+        "Longitude": 135.597222
+    },
+    {
+        "Name": "行燈山古墳 (天理市)",
+        "Description": "崇神天皇陵。柳本古墳群。",
+        "Prefecture": "奈良県",
+        "Latitude": 34.553333,
+        "Longitude": 135.845833
+    },
+    {
+        "Name": "渋谷向山古墳 (天理市)",
+        "Description": "景行天皇陵。柳本古墳群。",
+        "Prefecture": "奈良県",
+        "Latitude": 34.549167,
+        "Longitude": 135.846667
+    },
+    {
+        "Name": "西殿塚古墳 (天理市)",
+        "Description": "大和古墳群。手白香皇女陵。",
+        "Prefecture": "奈良県",
+        "Latitude": 34.572778,
+        "Longitude": 135.848333
+    },
+    {
+        "Name": "宝来山古墳 (奈良市)",
+        "Description": "垂仁天皇陵。",
+        "Prefecture": "奈良県",
+        "Latitude": 34.678333,
+        "Longitude": 135.786667
+    },
+    {
+        "Name": "佐紀石塚山古墳 (奈良市)",
+        "Description": "成務天皇陵。佐紀盾列古墳群。",
+        "Prefecture": "奈良県",
+        "Latitude": 34.698056,
+        "Longitude": 135.793333
+    },
+    {
+        "Name": "五社神古墳 (奈良市)",
+        "Description": "神功皇后陵。佐紀盾列古墳群。",
+        "Prefecture": "奈良県",
+        "Latitude": 34.701111,
+        "Longitude": 135.795833
+    },
+    {
+        "Name": "ウワナベ古墳 (奈良市)",
+        "Description": "佐紀盾列古墳群。濠が美しい。",
+        "Prefecture": "奈良県",
+        "Latitude": 34.696111,
+        "Longitude": 135.805278
+    },
+    {
+        "Name": "コナベ古墳 (奈良市)",
+        "Description": "佐紀盾列古墳群。",
+        "Prefecture": "奈良県",
+        "Latitude": 34.695278,
+        "Longitude": 135.808056
+    },
+    {
+        "Name": "藤ノ木古墳 (斑鳩町)",
+        "Description": "未盗掘の石棺から豪華な馬具が出土。",
+        "Prefecture": "奈良県",
+        "Latitude": 34.613333,
+        "Longitude": 135.733056
+    },
+    {
+        "Name": "巣山古墳 (広陵町)",
+        "Description": "馬見古墳群の盟主墳。",
+        "Prefecture": "奈良県",
+        "Latitude": 34.563056,
+        "Longitude": 135.731944
+    },
+    {
+        "Name": "安土瓢箪山古墳 (近江八幡市)",
+        "Description": "滋賀県を代表する前方後円墳。",
+        "Prefecture": "滋賀県",
+        "Latitude": 35.139444,
+        "Longitude": 136.141667
+    },
+    {
+        "Name": "芝丸山古墳 (港区)",
+        "Description": "東京タワーの近く、都心最大の前方後円墳。",
+        "Prefecture": "東京都",
+        "Latitude": 35.654167,
+        "Longitude": 139.748056
+    },
+    {
+        "Name": "多摩川台古墳群 (大田区)",
+        "Description": "亀甲山古墳など8基が整備されている。",
+        "Prefecture": "東京都",
+        "Latitude": 35.592222,
+        "Longitude": 139.664444
+    },
+    {
+        "Name": "内裏塚古墳 (富津市)",
+        "Description": "南関東最大級の前方後円墳。",
+        "Prefecture": "千葉県",
+        "Latitude": 35.330000,
+        "Longitude": 139.850000
+    },
+    {
+        "Name": "芝山古墳群 (横芝光町)",
+        "Description": "殿塚・姫塚古墳。人物埴輪の列で有名。",
+        "Prefecture": "千葉県",
+        "Latitude": 35.690000,
+        "Longitude": 140.420000
+    },
+    {
+        "Name": "舟塚山古墳 (石岡市)",
+        "Description": "茨城県最大の前方後円墳。",
+        "Prefecture": "茨城県",
+        "Latitude": 36.233333,
+        "Longitude": 140.266667
+    },
+    {
+        "Name": "侍塚古墳 (大田原市)",
+        "Description": "徳川光圀が発掘・保全を命じた日本考古学発祥の地。",
+        "Prefecture": "栃木県",
+        "Latitude": 36.818056,
+        "Longitude": 140.126111
+    },
+    {
+        "Name": "琵琶塚古墳 (小山市)",
+        "Description": "栃木県最大級の前方後円墳。",
+        "Prefecture": "栃木県",
+        "Latitude": 36.368056,
+        "Longitude": 139.811111
+    },
+    {
+        "Name": "両宮山古墳 (赤磐市)",
+        "Description": "備前地域最大の前方後円墳。",
+        "Prefecture": "岡山県",
+        "Latitude": 34.733333,
+        "Longitude": 134.016667
+    },
+    {
+        "Name": "千足古墳 (岡山市)",
+        "Description": "造山古墳の陪塚。石室に装飾がある。",
+        "Prefecture": "岡山県",
+        "Latitude": 34.675000,
+        "Longitude": 133.806667
+    },
+    {
+        "Name": "楯築遺跡 (倉敷市)",
+        "Description": "弥生墳丘墓から古墳への過渡期を示す重要遺跡。",
+        "Prefecture": "岡山県",
+        "Latitude": 34.660278,
+        "Longitude": 133.784722
+    },
+    {
+        "Name": "三ツ城古墳 (東広島市)",
+        "Description": "広島県最大の前方後円墳。復元整備されている。",
+        "Prefecture": "広島県",
+        "Latitude": 34.423056,
+        "Longitude": 132.730556
+    },
+    {
+        "Name": "向木見・向山古墳群 (米子市)",
+        "Description": "山陰最大級の古墳群。",
+        "Prefecture": "鳥取県",
+        "Latitude": 35.433333,
+        "Longitude": 133.366667
+    },
+    {
+        "Name": "北山古墳 (湯梨浜町)",
+        "Description": "鳥取県最大の前方後円墳。",
+        "Prefecture": "鳥取県",
+        "Latitude": 35.500000,
+        "Longitude": 133.883333
+    },
+    {
+        "Name": "山代二子塚古墳 (松江市)",
+        "Description": "出雲地方最大の前方後方墳。",
+        "Prefecture": "島根県",
+        "Latitude": 35.450000,
+        "Longitude": 133.083333
+    },
+    {
+        "Name": "渋野丸山古墳 (徳島市)",
+        "Description": "徳島県最大の前方後円墳。",
+        "Prefecture": "徳島県",
+        "Latitude": 34.033333,
+        "Longitude": 134.516667
+    },
+    {
+        "Name": "富田茶臼山古墳 (さぬき市)",
+        "Description": "四国最大の前方後円墳。",
+        "Prefecture": "香川県",
+        "Latitude": 34.283333,
+        "Longitude": 134.216667
+    },
+    {
+        "Name": "快天山古墳 (丸亀市)",
+        "Description": "香川県を代表する前方後円墳。",
+        "Prefecture": "香川県",
+        "Latitude": 34.266667,
+        "Longitude": 133.833333
+    },
+    {
+        "Name": "乗場古墳 (八女市)",
+        "Description": "八女古墳群。石室装飾がある。",
+        "Prefecture": "福岡県",
+        "Latitude": 33.226667,
+        "Longitude": 130.558333
+    },
+    {
+        "Name": "竹原古墳 (宮若市)",
+        "Description": "奥壁に描かれた壁画が有名な装飾古墳。",
+        "Prefecture": "福岡県",
+        "Latitude": 33.716667,
+        "Longitude": 130.566667
+    },
+    {
+        "Name": "チブサン古墳 (山鹿市)",
+        "Description": "装飾古墳。石屋形に乳房状の突起がある。",
+        "Prefecture": "熊本県",
+        "Latitude": 33.033333,
+        "Longitude": 130.683333
+    },
+    {
+        "Name": "新田原古墳群 (新富町)",
+        "Description": "百足塚古墳などからなる大規模古墳群。",
+        "Prefecture": "宮崎県",
+        "Latitude": 32.066667,
+        "Longitude": 131.466667
+    },
+    {
+        "Name": "唐仁古墳群 (東串良町)",
+        "Description": "大隅地方最大の古墳群。",
+        "Prefecture": "鹿児島県",
+        "Latitude": 31.383333,
+        "Longitude": 130.983333
+    },
+    {
+        "Name": "塚崎古墳群 (肝付町)",
+        "Description": "日本最南端の前方後円墳群。",
+        "Prefecture": "鹿児島県",
+        "Latitude": 31.283333,
+        "Longitude": 131.083333
+    }
+]

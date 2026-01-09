@@ -1,0 +1,205 @@
+[
+    {
+        "Name": "知床 (知床半島)",
+        "Description": "世界遺産。流氷が育む豊かな海洋生態系と陸上生態系の相互作用。",
+        "Prefecture": "北海道",
+        "Latitude": 44.025000,
+        "Longitude": 145.093611
+    },
+    {
+        "Name": "知床五湖 (斜里町)",
+        "Description": "世界遺産。知床連山を背景に原生林の中に点在する5つの湖。",
+        "Prefecture": "北海道",
+        "Latitude": 44.126111,
+        "Longitude": 145.083333
+    },
+    {
+        "Name": "カムイワッカ湯の滝 (斜里町)",
+        "Description": "世界遺産。温泉が流れる滝。",
+        "Prefecture": "北海道",
+        "Latitude": 44.160000,
+        "Longitude": 145.151111
+    },
+    {
+        "Name": "フレペの滝 (斜里町)",
+        "Description": "世界遺産。乙女の涙。",
+        "Prefecture": "北海道",
+        "Latitude": 44.075833,
+        "Longitude": 145.087778
+    },
+    {
+        "Name": "白神山地 (西目屋村・藤里町他)",
+        "Description": "世界遺産。東アジア最大級の原生的なブナ林。",
+        "Prefecture": "青森県",
+        "Latitude": 40.470000,
+        "Longitude": 140.130000
+    },
+    {
+        "Name": "暗門の滝 (西目屋村)",
+        "Description": "世界遺産。白神山地を代表する景勝地。",
+        "Prefecture": "青森県",
+        "Latitude": 40.522222,
+        "Longitude": 140.108333
+    },
+    {
+        "Name": "十二湖 (深浦町)",
+        "Description": "世界遺産（緩衝地帯）。青池が有名。",
+        "Prefecture": "青森県",
+        "Latitude": 40.556667,
+        "Longitude": 139.967500
+    },
+    {
+        "Name": "岳岱自然観察教育林 (藤里町)",
+        "Description": "世界遺産。ブナの原生林。",
+        "Prefecture": "秋田県",
+        "Latitude": 40.395278,
+        "Longitude": 140.179167
+    },
+    {
+        "Name": "小笠原諸島 (小笠原村)",
+        "Description": "世界遺産。進化の実験場。独自の生態系。",
+        "Prefecture": "東京都",
+        "Latitude": 27.095000,
+        "Longitude": 142.193056
+    },
+    {
+        "Name": "父島 (小笠原村)",
+        "Description": "世界遺産。小笠原諸島の主島。",
+        "Prefecture": "東京都",
+        "Latitude": 27.066667,
+        "Longitude": 142.200000
+    },
+    {
+        "Name": "母島 (小笠原村)",
+        "Description": "世界遺産。固有種が多く生息。",
+        "Prefecture": "東京都",
+        "Latitude": 26.650000,
+        "Longitude": 142.150000
+    },
+    {
+        "Name": "南島 (小笠原村)",
+        "Description": "世界遺産。沈水カルスト地形。",
+        "Prefecture": "東京都",
+        "Latitude": 27.042222,
+        "Longitude": 142.172222
+    },
+    {
+        "Name": "屋久島 (屋久島町)",
+        "Description": "世界遺産。樹齢数千年の屋久杉と垂直分布する植生。",
+        "Prefecture": "鹿児島県",
+        "Latitude": 30.343611,
+        "Longitude": 130.511111
+    },
+    {
+        "Name": "縄文杉 (屋久島町)",
+        "Description": "世界遺産。推定樹齢7200年とも言われる巨大杉。",
+        "Prefecture": "鹿児島県",
+        "Latitude": 30.360833,
+        "Longitude": 130.531667
+    },
+    {
+        "Name": "白谷雲水峡 (屋久島町)",
+        "Description": "世界遺産（一部）。もののけ姫の森。",
+        "Prefecture": "鹿児島県",
+        "Latitude": 30.383333,
+        "Longitude": 130.633333
+    },
+    {
+        "Name": "宮之浦岳 (屋久島町)",
+        "Description": "世界遺産。九州最高峰。",
+        "Prefecture": "鹿児島県",
+        "Latitude": 30.335556,
+        "Longitude": 130.505278
+    },
+    {
+        "Name": "西部林道 (屋久島町)",
+        "Description": "世界遺産。海岸線まで森が続く。",
+        "Prefecture": "鹿児島県",
+        "Latitude": 30.350000,
+        "Longitude": 130.416667
+    },
+    {
+        "Name": "奄美大島 (奄美市他)",
+        "Description": "世界遺産。アマミノクロウサギなど多くの固有種が生息。",
+        "Prefecture": "鹿児島県",
+        "Latitude": 28.300000,
+        "Longitude": 129.400000
+    },
+    {
+        "Name": "金作原原生林 (奄美市)",
+        "Description": "世界遺産。亜熱帯照葉樹林。",
+        "Prefecture": "鹿児島県",
+        "Latitude": 28.325000,
+        "Longitude": 129.433333
+    },
+    {
+        "Name": "湯湾岳 (宇検村)",
+        "Description": "世界遺産。奄美最高峰。",
+        "Prefecture": "鹿児島県",
+        "Latitude": 28.283333,
+        "Longitude": 129.316667
+    },
+    {
+        "Name": "徳之島 (徳之島町他)",
+        "Description": "世界遺産。アマミノクロウサギなどが生息。",
+        "Prefecture": "鹿児島県",
+        "Latitude": 27.733333,
+        "Longitude": 128.966667
+    },
+    {
+        "Name": "剥岳 (徳之島町)",
+        "Description": "世界遺産。",
+        "Prefecture": "鹿児島県",
+        "Latitude": 27.816667,
+        "Longitude": 128.966667
+    },
+    {
+        "Name": "沖縄島北部 (やんばる) (国頭村他)",
+        "Description": "世界遺産。ヤンバルクイナなどが生息する照葉樹林。",
+        "Prefecture": "沖縄県",
+        "Latitude": 26.750000,
+        "Longitude": 128.216667
+    },
+    {
+        "Name": "与那覇岳 (国頭村)",
+        "Description": "世界遺産。沖縄本島最高峰。",
+        "Prefecture": "沖縄県",
+        "Latitude": 26.713889,
+        "Longitude": 128.219444
+    },
+    {
+        "Name": "比地大滝 (国頭村)",
+        "Description": "やんばるの森にある滝。",
+        "Prefecture": "沖縄県",
+        "Latitude": 26.723611,
+        "Longitude": 128.175000
+    },
+    {
+        "Name": "西表島 (竹富町)",
+        "Description": "世界遺産。イリオモテヤマネコが生息するジャングル。",
+        "Prefecture": "沖縄県",
+        "Latitude": 24.316667,
+        "Longitude": 123.833333
+    },
+    {
+        "Name": "仲間川 (竹富町)",
+        "Description": "世界遺産。マングローブ林。",
+        "Prefecture": "沖縄県",
+        "Latitude": 24.266667,
+        "Longitude": 123.866667
+    },
+    {
+        "Name": "ピナイサーラの滝 (竹富町)",
+        "Description": "世界遺産。沖縄県最大の落差。",
+        "Prefecture": "沖縄県",
+        "Latitude": 24.391667,
+        "Longitude": 123.816667
+    },
+    {
+        "Name": "浦内川 (竹富町)",
+        "Description": "世界遺産。沖縄県最長の川。",
+        "Prefecture": "沖縄県",
+        "Latitude": 24.400000,
+        "Longitude": 123.783333
+    }
+]

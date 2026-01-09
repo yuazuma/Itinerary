@@ -1,0 +1,191 @@
+[
+    {
+        "Name": "旧花田家番屋 (小平町)",
+        "Description": "国指定重要文化財。日本最北かつ最大級のニシン漁の番屋。",
+        "Prefecture": "北海道",
+        "Latitude": 44.062500,
+        "Longitude": 141.659722
+    },
+    {
+        "Name": "旧青山家漁家住宅 (札幌市)",
+        "Description": "北海道開拓の村にある、小樽のニシン御殿。",
+        "Prefecture": "北海道",
+        "Latitude": 43.048889,
+        "Longitude": 141.493333
+    },
+    {
+        "Name": "角館石黒家住宅 (仙北市)",
+        "Description": "角館武家屋敷の中で唯一、直系の子孫が住み続けている屋敷。",
+        "Prefecture": "秋田県",
+        "Latitude": 39.598056,
+        "Longitude": 140.563056
+    },
+    {
+        "Name": "角館青柳家住宅 (仙北市)",
+        "Description": "角館歴史村。広大な敷地に多くの建物が残る。",
+        "Prefecture": "秋田県",
+        "Latitude": 39.597500,
+        "Longitude": 140.563333
+    },
+    {
+        "Name": "千葉家住宅 (遠野市)",
+        "Description": "南部曲り家の代表作。重要文化財。現在保存修理中だが外観は見学可の場合あり。",
+        "Prefecture": "岩手県",
+        "Latitude": 39.327500,
+        "Longitude": 141.472778
+    },
+    {
+        "Name": "目黒邸 (魚沼市)",
+        "Description": "重要文化財。豪農の館。",
+        "Prefecture": "新潟県",
+        "Latitude": 37.316667,
+        "Longitude": 139.033333
+    },
+    {
+        "Name": "北方文化博物館 (新潟市)",
+        "Description": "豪農伊藤家の邸宅を博物館として公開。",
+        "Prefecture": "新潟県",
+        "Latitude": 37.866667,
+        "Longitude": 139.133333
+    },
+    {
+        "Name": "旧朝倉家住宅 (渋谷区)",
+        "Description": "重要文化財。大正ロマンを感じさせる和風建築。",
+        "Prefecture": "東京都",
+        "Latitude": 35.648611,
+        "Longitude": 139.701389
+    },
+    {
+        "Name": "江戸東京たてもの園 (小金井市)",
+        "Description": "多くの歴史的建造物を移築保存。",
+        "Prefecture": "東京都",
+        "Latitude": 35.716667,
+        "Longitude": 139.516667
+    },
+    {
+        "Name": "日本民家園 (川崎市)",
+        "Description": "東日本の代表的な古民家を移築。",
+        "Prefecture": "神奈川県",
+        "Latitude": 35.608333,
+        "Longitude": 139.566667
+    },
+    {
+        "Name": "旧吉田家住宅歴史公園 (柏市)",
+        "Description": "重要文化財。豪農の屋敷。",
+        "Prefecture": "千葉県",
+        "Latitude": 35.883333,
+        "Longitude": 139.966667
+    },
+    {
+        "Name": "戸定邸 (松戸市)",
+        "Description": "徳川昭武の別邸。重要文化財。",
+        "Prefecture": "千葉県",
+        "Latitude": 35.783333,
+        "Longitude": 139.900000
+    },
+    {
+        "Name": "和田家住宅 (白川村)",
+        "Description": "重要文化財。白川郷最大規模の合掌造り。",
+        "Prefecture": "岐阜県",
+        "Latitude": 36.258333,
+        "Longitude": 136.906667
+    },
+    {
+        "Name": "岩瀬家住宅 (南砺市)",
+        "Description": "重要文化財。五箇山最大級の合掌造り。",
+        "Prefecture": "富山県",
+        "Latitude": 36.404167,
+        "Longitude": 136.883333
+    },
+    {
+        "Name": "高山陣屋 (高山市)",
+        "Description": "日本で唯一現存する代官所。居住空間も含む。",
+        "Prefecture": "岐阜県",
+        "Latitude": 36.140278,
+        "Longitude": 137.258333
+    },
+    {
+        "Name": "箱木家住宅 (神戸市)",
+        "Description": "重要文化財。現存する日本最古級の民家。",
+        "Prefecture": "兵庫県",
+        "Latitude": 34.783333,
+        "Longitude": 135.133333
+    },
+    {
+        "Name": "旧西川家住宅 (近江八幡市)",
+        "Description": "重要文化財。近江商人の屋敷。",
+        "Prefecture": "滋賀県",
+        "Latitude": 35.140000,
+        "Longitude": 136.090000
+    },
+    {
+        "Name": "冷泉家住宅 (京都市)",
+        "Description": "重要文化財。現存する唯一の公家屋敷。",
+        "Prefecture": "京都府",
+        "Latitude": 35.029722,
+        "Longitude": 135.760278
+    },
+    {
+        "Name": "今西家住宅 (橿原市)",
+        "Description": "重要文化財。今井町の惣年寄の屋敷。",
+        "Prefecture": "奈良県",
+        "Latitude": 34.507500,
+        "Longitude": 135.782778
+    },
+    {
+        "Name": "旧野﨑家住宅 (倉敷市)",
+        "Description": "重要文化財。製塩業で財を成した野﨑家の邸宅。",
+        "Prefecture": "岡山県",
+        "Latitude": 34.466667,
+        "Longitude": 133.800000
+    },
+    {
+        "Name": "旧片山家住宅 (高梁市)",
+        "Description": "重要文化財。吹屋ふるさと村のベンガラ長者。",
+        "Prefecture": "岡山県",
+        "Latitude": 34.863333,
+        "Longitude": 133.468056
+    },
+    {
+        "Name": "菊屋家住宅 (萩市)",
+        "Description": "重要文化財。萩藩御用商人の屋敷。",
+        "Prefecture": "山口県",
+        "Latitude": 34.412500,
+        "Longitude": 131.394444
+    },
+    {
+        "Name": "上芳我家住宅 (内子町)",
+        "Description": "重要文化財。木蝋生産の豪商。",
+        "Prefecture": "愛媛県",
+        "Latitude": 33.553056,
+        "Longitude": 132.651389
+    },
+    {
+        "Name": "旧高取邸 (唐津市)",
+        "Description": "重要文化財。炭鉱王の和風邸宅。",
+        "Prefecture": "佐賀県",
+        "Latitude": 33.454167,
+        "Longitude": 129.966667
+    },
+    {
+        "Name": "旧伊藤伝右衛門邸 (飯塚市)",
+        "Description": "炭鉱王と白蓮の邸宅。",
+        "Prefecture": "福岡県",
+        "Latitude": 33.650000,
+        "Longitude": 130.683333
+    },
+    {
+        "Name": "中村家住宅 (北中城村)",
+        "Description": "重要文化財。沖縄の伝統的農家建築。",
+        "Prefecture": "沖縄県",
+        "Latitude": 26.288889,
+        "Longitude": 127.791667
+    },
+    {
+        "Name": "宮良殿内 (石垣市)",
+        "Description": "重要文化財。琉球王国の士族屋敷。",
+        "Prefecture": "沖縄県",
+        "Latitude": 24.341667,
+        "Longitude": 124.158333
+    }
+]
